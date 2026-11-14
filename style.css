@@ -799,6 +799,7 @@ h1, h2, h3, h4, .serif-font {
    TELA DE PROTEÇÃO POR SENHA DA FAMÍLIA (ACESSO RESTRITO)
    ========================================================================== */
 
+body.locked #portal-protected-app,
 body.locked .site-header,
 body.locked .main-nav,
 body.locked .main-container,

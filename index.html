@@ -7,7 +7,93 @@
   <meta name="googlebot" content="noindex, nofollow" />
   <title>Portal & Memorial da Família Faedo — Da Itália ao Brasil (1862–Presente)</title>
   <meta name="description" content="Acervo histórico, árvore genealógica, fotografias restauradas e dossiê de cidadania italiana da Família Faedo — de Monte Faedo (Vicenza, Itália) ao Rio Grande do Sul e Paraná." />
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css?v=20261114-v2" />
+  <style>
+    /* Bloqueio garantido em nível de HTML mesmo com cache de CSS no navegador */
+    body.locked #portal-protected-app,
+    body.locked .site-header,
+    body.locked .main-nav,
+    body.locked .main-container,
+    body.locked .site-footer {
+      display: none !important;
+    }
+    body:not(.locked) #family-lock-screen {
+      display: none !important;
+    }
+    .family-lock-screen {
+      min-height: calc(100vh - 6px);
+      background: linear-gradient(135deg, #1E1412 0%, #4A151B 52%, #173026 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+    }
+    .lock-card {
+      background: #FAF6F0;
+      border: 2px solid #C59B27;
+      border-radius: 16px;
+      max-width: 440px;
+      width: 100%;
+      padding: 2.25rem 2rem;
+      text-align: center;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.55);
+    }
+    .lock-crest {
+      width: 96px;
+      height: 118px;
+      object-fit: cover;
+      border-radius: 10px;
+      border: 2px solid #C59B27;
+      box-shadow: 0 8px 24px rgba(34, 24, 18, 0.12);
+      margin: 0 auto 1rem auto;
+      display: block;
+      background: #fff;
+    }
+    .lock-card h2 {
+      color: #581218;
+      font-size: 1.5rem;
+      margin-bottom: 0.35rem;
+    }
+    .lock-card p {
+      color: #5A524C;
+      font-size: 0.92rem;
+      margin-bottom: 1.35rem;
+    }
+    .lock-input-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+    .lock-input {
+      width: 100%;
+      padding: 0.8rem 1rem;
+      font-size: 1.05rem;
+      text-align: center;
+      letter-spacing: 2px;
+      border: 2px solid #E2D9C8;
+      border-radius: 10px;
+      background: #FFFFFF;
+      color: #221E1D;
+      outline: none;
+    }
+    .lock-input:focus {
+      border-color: #7C1D26;
+    }
+    .lock-error {
+      color: #B42318;
+      background: #FEF3F2;
+      border: 1px solid #FECDCA;
+      padding: 0.55rem 0.8rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      display: none;
+      margin-top: 0.65rem;
+    }
+    .lock-error.visible {
+      display: block !important;
+    }
+  </style>
 </head>
 <body class="locked">
 
@@ -38,15 +124,18 @@
           autocomplete="current-password"
           required
         />
-        <button type="submit" class="btn btn-primary" style="padding: 0.8rem; font-size: 0.96rem;">
+        <button type="submit" class="btn btn-primary" style="padding: 0.8rem; font-size: 0.96rem; width: 100%;">
           🔓 Acessar Portal da Família
         </button>
       </form>
-      <div id="lock-error-msg" class="lock-error">
+      <div id="lock-error-msg" class="lock-error" style="display: none;">
         ❌ Senha incorreta. Solicite a senha de acesso aos familiares.
       </div>
     </div>
   </section>
+
+  <!-- Conteúdo Protegido do Portal (oculto até validação da senha) -->
+  <div id="portal-protected-app" hidden style="display: none;">
 
   <!-- Cabeçalho Principal -->
   <header class="site-header">
@@ -833,6 +922,8 @@
     </p>
   </footer>
 
-  <script src="app.js"></script>
+  </div><!-- /#portal-protected-app -->
+
+  <script src="app.js?v=20261114-v2"></script>
 </body>
 </html>

@@ -1149,6 +1149,15 @@ function verifyFamilyPassword(inputVal) {
 
 function unlockPortal() {
   document.body.classList.remove('locked');
+  const protectedApp = document.getElementById('portal-protected-app');
+  if (protectedApp) {
+    protectedApp.removeAttribute('hidden');
+    protectedApp.style.display = 'block';
+  }
+  const lockScreen = document.getElementById('family-lock-screen');
+  if (lockScreen) {
+    lockScreen.style.display = 'none';
+  }
   try {
     localStorage.setItem(FAMILY_ACCESS_KEY, EXPECTED_TOKEN);
   } catch (e) {}
@@ -1161,7 +1170,19 @@ function lockPortal() {
   const inp = document.getElementById('family-password-input');
   if (inp) inp.value = '';
   const err = document.getElementById('lock-error-msg');
-  if (err) err.classList.remove('visible');
+  if (err) {
+    err.classList.remove('visible');
+    err.style.display = 'none';
+  }
+  const protectedApp = document.getElementById('portal-protected-app');
+  if (protectedApp) {
+    protectedApp.setAttribute('hidden', 'hidden');
+    protectedApp.style.display = 'none';
+  }
+  const lockScreen = document.getElementById('family-lock-screen');
+  if (lockScreen) {
+    lockScreen.style.display = 'flex';
+  }
   document.body.classList.add('locked');
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
@@ -1173,10 +1194,16 @@ function handleUnlockSubmit(event) {
   const val = inp ? inp.value : '';
 
   if (verifyFamilyPassword(val)) {
-    if (err) err.classList.remove('visible');
+    if (err) {
+      err.classList.remove('visible');
+      err.style.display = 'none';
+    }
     unlockPortal();
   } else {
-    if (err) err.classList.add('visible');
+    if (err) {
+      err.classList.add('visible');
+      err.style.display = 'block';
+    }
     if (inp) {
       inp.value = '';
       inp.focus();
