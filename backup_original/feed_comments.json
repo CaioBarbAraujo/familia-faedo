@@ -1,0 +1,2769 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-7684661181787056048.comments"
+    },
+    "updated": {
+      "$t": "2026-08-04T19:48:45.516-07:00"
+    },
+    "title": {
+      "type": "text",
+      "$t": "Família Faedo"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://familiafaedo.blogspot.com/feeds/comments/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/7684661181787056048/comments/default?alt=json&max-results=500"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://familiafaedo.blogspot.com/"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Anonymous"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/06399915061930807723"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "16",
+          "height": "16",
+          "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "38"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "500"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-3953566004066577751"
+        },
+        "published": {
+          "$t": "2026-08-04T19:48:45.516-07:00"
+        },
+        "updated": {
+          "$t": "2026-08-04T19:48:45.516-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "67"
+        },
+        "content": {
+          "type": "html",
+          "$t": "67"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/3953566004066577751"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/3953566004066577751"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "4 de agosto de 2026 às 19:48"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-8521252358804947088"
+        },
+        "published": {
+          "$t": "2026-01-04T16:39:34.645-08:00"
+        },
+        "updated": {
+          "$t": "2026-01-04T16:39:34.645-08:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "brr brr patapim\n"
+        },
+        "content": {
+          "type": "html",
+          "$t": "brr brr patapim<br />"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/8521252358804947088"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/8521252358804947088"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "4 de janeiro de 2026 às 16:39"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-6519698878137344073"
+        },
+        "published": {
+          "$t": "2025-12-07T18:29:15.304-08:00"
+        },
+        "updated": {
+          "$t": "2025-12-07T18:29:15.304-08:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "ominimbixa\n"
+        },
+        "content": {
+          "type": "html",
+          "$t": "ominimbixa<br />"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/6519698878137344073"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/6519698878137344073"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "7 de dezembro de 2025 às 18:29"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-7410699351738681072"
+        },
+        "published": {
+          "$t": "2025-06-23T08:33:46.733-07:00"
+        },
+        "updated": {
+          "$t": "2025-06-23T08:33:46.733-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Em Realeza Parana conheci Solange Faedo. Estudou c..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Em Realeza Parana conheci Solange Faedo. Estudou comigo . Parabens familia Faedo. Voces desbravaram Franscisco Beltrao.<br />"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/7410699351738681072"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/7410699351738681072"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-4790361651861878583",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/4790361651861878583",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "23 de junho de 2025 às 08:33"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-7135523550754411763"
+        },
+        "published": {
+          "$t": "2025-04-24T19:54:20.230-07:00"
+        },
+        "updated": {
+          "$t": "2025-04-24T19:54:20.230-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "literalmente tu gabriel\n"
+        },
+        "content": {
+          "type": "html",
+          "$t": "literalmente tu gabriel<br />"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/7135523550754411763"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/7135523550754411763"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "24 de abril de 2025 às 19:54"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-4867979277759880293"
+        },
+        "published": {
+          "$t": "2025-04-24T19:53:58.922-07:00"
+        },
+        "updated": {
+          "$t": "2025-04-24T19:53:58.922-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "https://br.pinterest.com/pin/986569862126483416/"
+        },
+        "content": {
+          "type": "html",
+          "$t": "https://br.pinterest.com/pin/986569862126483416/"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/4867979277759880293"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/4867979277759880293"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "24 de abril de 2025 às 19:53"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-6661110792721690533"
+        },
+        "published": {
+          "$t": "2025-04-22T10:34:31.275-07:00"
+        },
+        "updated": {
+          "$t": "2025-04-22T10:34:31.275-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Gaybriel tira o Rapozão do seu insta e põe Quagmir..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Gaybriel tira o Rapozão do seu insta e põe Quagmire ou Lord Farquad"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/6661110792721690533"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/6661110792721690533"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "22 de abril de 2025 às 10:34"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-7426962637545421368"
+        },
+        "published": {
+          "$t": "2025-03-07T15:45:12.886-08:00"
+        },
+        "updated": {
+          "$t": "2025-03-07T15:45:12.886-08:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "BIXA"
+        },
+        "content": {
+          "type": "html",
+          "$t": "BIXA"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/7426962637545421368"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/7426962637545421368"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          },
+          {
+            "rel": "related",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/7827292577621187549"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "7 de março de 2025 às 15:45"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-1978395510200504845"
+        },
+        "published": {
+          "$t": "2025-03-04T18:58:40.398-08:00"
+        },
+        "updated": {
+          "$t": "2025-03-04T18:58:40.398-08:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "burrao"
+        },
+        "content": {
+          "type": "html",
+          "$t": "burrao"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/1978395510200504845"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/1978395510200504845"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "4 de março de 2025 às 18:58"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-6738901756519162547"
+        },
+        "published": {
+          "$t": "2024-10-29T07:31:31.557-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-29T07:31:31.557-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "eu do a bundinha, beiradinha, rosca, tudo. Cu pela..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "eu do a bundinha, beiradinha, rosca, tudo. Cu pelando slk amo pika Ass :Gabriel Asafe Meltzer"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/6738901756519162547"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/6738901756519162547"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "29 de outubro de 2024 às 07:31"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-5920583576119753142"
+        },
+        "published": {
+          "$t": "2024-10-29T07:27:10.036-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-29T07:27:10.036-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Esse Gabriel tá abrindo curso pra ser homossexual?..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Esse Gabriel tá abrindo curso pra ser homossexual?"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/5920583576119753142"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/5920583576119753142"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "29 de outubro de 2024 às 07:27"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-3272193167464198726"
+        },
+        "published": {
+          "$t": "2024-10-29T07:26:59.397-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-29T07:26:59.397-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "opa oi só passa pra dizer q a melhor sentada q eu ..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "opa oi só passa pra dizer q a melhor sentada q eu já tome foi a do gaybriel que raba gostosinha"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/3272193167464198726"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/3272193167464198726"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "29 de outubro de 2024 às 07:26"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-8432068429369110969"
+        },
+        "published": {
+          "$t": "2024-10-22T07:25:38.117-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-22T07:25:38.117-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "GABRIEL É HOMOSEXUAL"
+        },
+        "content": {
+          "type": "html",
+          "$t": "GABRIEL É HOMOSEXUAL"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/8432068429369110969"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/8432068429369110969"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "22 de outubro de 2024 às 07:25"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-6951446024840403190"
+        },
+        "published": {
+          "$t": "2024-10-16T19:58:20.300-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-16T19:58:20.300-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "82993288981"
+        },
+        "content": {
+          "type": "html",
+          "$t": "82993288981"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/6951446024840403190"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/6951446024840403190"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+            "title": ""
+          },
+          {
+            "rel": "related",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/3680682834588460831"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "anderson Faedo Lazzarotto"
+            },
+            "uri": {
+              "$t": "https://www.instagram.com/andersonfaedolazzarotto._/profilecard/?igsh=aWlzanptYmI1N3lm"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-4790361651861878583",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/4790361651861878583",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "16 de outubro de 2024 às 19:58"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-2237232523903696766"
+        },
+        "published": {
+          "$t": "2024-10-08T05:43:06.974-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-08T05:43:06.974-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Olá, gostaria de contato com familiares que já fiz..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Olá, gostaria de contato com familiares que já fizeram o processo de cidadania ou tem interesse em fazer (43)999083101"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/1622248374885176922/comments/default/2237232523903696766"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/1622248374885176922/comments/default/2237232523903696766"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/arquivos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/arquivos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-1622248374885176922",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/1622248374885176922",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "8 de outubro de 2024 às 05:43"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-5658476640184976819"
+        },
+        "published": {
+          "$t": "2024-09-17T07:41:19.091-07:00"
+        },
+        "updated": {
+          "$t": "2024-09-17T07:41:19.091-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Manda audio, não sei ler"
+        },
+        "content": {
+          "type": "html",
+          "$t": "Manda audio, não sei ler"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/5658476640184976819"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/5658476640184976819"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "17 de setembro de 2024 às 07:41"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-4964987639261210892"
+        },
+        "published": {
+          "$t": "2024-09-17T07:40:51.644-07:00"
+        },
+        "updated": {
+          "$t": "2024-09-17T07:40:51.644-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "cala boca Gaybriel"
+        },
+        "content": {
+          "type": "html",
+          "$t": "cala boca Gaybriel"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/4964987639261210892"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/4964987639261210892"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "17 de setembro de 2024 às 07:40"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-3922293952973677356"
+        },
+        "published": {
+          "$t": "2024-08-27T07:50:58.214-07:00"
+        },
+        "updated": {
+          "$t": "2024-08-27T07:50:58.214-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Comi outro em Bandeirantes\nE sai na correria\nChega..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Comi outro em Bandeirantes<br />E sai na correria<br />Chegando em São Gabriel<br />Enrabei uma guria<br />Rio Verde e Coxim<br />Foi a maior putaria<br />Meu pinto é uma alavanca<br />Meu saco é uma marreta<br />Vou até no fim do mundo<br />Por causa de uma buceta<br />Meu pinto é uma alavanca<br />Meu saco é uma marreta<br />Vou até no fim do mundo<br />Por causa de uma buceta<br />"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/3922293952973677356"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/3922293952973677356"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          },
+          {
+            "rel": "related",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/418119712065668487"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "27 de agosto de 2024 às 07:50"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-418119712065668487"
+        },
+        "published": {
+          "$t": "2024-08-27T07:49:31.971-07:00"
+        },
+        "updated": {
+          "$t": "2024-08-27T07:49:31.971-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Certa noite em Campo Grande\nEu dei a maior trepada..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Certa noite em Campo Grande<br />Eu dei a maior trepada<br />Com uma linda cuiabana<br />Da bunda avantajada<br />A trepada foi tão grande<br />Que eu acho que desmaiei<br />No outro dia, cedinho<br />Só um bilhete encontrei<br />No bilhete ela dizia<br />Que ia me encontrar<br />Pra nós dar outra trepada<br />Quando eu fosse em Cuiabá<br />Peguei meu fuscão vermelho<br />E sai desesperado<br />Passei em Jaraguari<br />Comi o cu de um viado<br />"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/418119712065668487"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/418119712065668487"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "27 de agosto de 2024 às 07:49"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-3216760387300070767"
+        },
+        "published": {
+          "$t": "2024-04-30T13:02:24.132-07:00"
+        },
+        "updated": {
+          "$t": "2024-04-30T13:02:24.132-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Meu bisavô era o Luiz Antônio faedo..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Meu bisavô era o Luiz Antônio faedo..."
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/1622248374885176922/comments/default/3216760387300070767"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/1622248374885176922/comments/default/3216760387300070767"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/arquivos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/arquivos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-1622248374885176922",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/1622248374885176922",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "30 de abril de 2024 às 13:02"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-8766252299483797666"
+        },
+        "published": {
+          "$t": "2024-04-03T10:54:38.317-07:00"
+        },
+        "updated": {
+          "$t": "2024-04-03T10:54:38.317-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Olá meu avô se chama Onorio Faedo é mora em Franci..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Olá meu avô se chama Onorio Faedo é mora em Francisco Beltrão no Paraná, será que seria o mesmo?? Meu contato é 51 83143024"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/8766252299483797666"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/8766252299483797666"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+            "title": ""
+          },
+          {
+            "rel": "related",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/1052376833757236554"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-7027850581876169332",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/7027850581876169332",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "3 de abril de 2024 às 10:54"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-3680682834588460831"
+        },
+        "published": {
+          "$t": "2024-01-30T16:01:08.730-08:00"
+        },
+        "updated": {
+          "$t": "2024-01-30T16:01:08.730-08:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Gostaria de saber se alguém tem alguma fotografia ..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Gostaria de saber se alguém tem alguma fotografia da minha Mãe (Maria Elena Faedo ) sou filho mais novo , não sei se  alguém vai me contatar pra inviar alguma coisa "
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/3680682834588460831"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/3680682834588460831"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-4790361651861878583",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/4790361651861878583",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "30 de janeiro de 2024 às 16:01"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-7437033922264132034"
+        },
+        "published": {
+          "$t": "2024-01-30T15:16:03.321-08:00"
+        },
+        "updated": {
+          "$t": "2024-01-30T15:16:03.321-08:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "(39)3206149658  Para cidadania italiana se alguém ..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "(39)3206149658  Para cidadania italiana se alguém da família Faedo tiver interesse em fazer a cidadania italiana "
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/7437033922264132034"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/7437033922264132034"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-4790361651861878583",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/4790361651861878583",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "30 de janeiro de 2024 às 15:16"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-2681134754679153576"
+        },
+        "published": {
+          "$t": "2022-10-01T20:43:30.902-07:00"
+        },
+        "updated": {
+          "$t": "2022-10-01T20:43:30.902-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Meu Bisa 👏👏👏"
+        },
+        "content": {
+          "type": "html",
+          "$t": "Meu Bisa 👏👏👏"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/5397591980870935192/comments/default/2681134754679153576"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/5397591980870935192/comments/default/2681134754679153576"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/2012/04/o-poema.html?showComment=1664682210902#c2681134754679153576",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/2012/04/o-poema.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-5397591980870935192",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/5397591980870935192",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "1 de outubro de 2022 às 20:43"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-7827292577621187549"
+        },
+        "published": {
+          "$t": "2022-09-22T02:17:07.411-07:00"
+        },
+        "updated": {
+          "$t": "2022-09-22T02:17:07.411-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Obrigado sou filho da Krishna filha da lenir e Juc..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Obrigado sou filho da Krishna filha da lenir e Juca Faedo,meu nome é Gabriel Asafe Faedo Metzler, agradeço agora posso saber mais do meu passado "
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/7827292577621187549"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/7827292577621187549"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "22 de setembro de 2022 às 02:17"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-166708259641581672"
+        },
+        "published": {
+          "$t": "2015-11-30T10:55:34.669-08:00"
+        },
+        "updated": {
+          "$t": "2015-11-30T10:55:34.669-08:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Luiz Plinio Faedo, que era de Londrina?\n"
+        },
+        "content": {
+          "type": "html",
+          "$t": "Luiz Plinio Faedo, que era de Londrina?<br />"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/166708259641581672"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/166708259641581672"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+            "title": ""
+          },
+          {
+            "rel": "related",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/1267148266628570960"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-7027850581876169332",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/7027850581876169332",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "30 de novembro de 2015 às 10:55"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-6160533831632769311"
+        },
+        "published": {
+          "$t": "2013-06-17T13:59:56.462-07:00"
+        },
+        "updated": {
+          "$t": "2013-06-17T13:59:56.462-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Boa noite! Sou MARCOS DE OLIVEIRA BATISTA, gostari..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Boa noite! Sou MARCOS DE OLIVEIRA BATISTA, gostaria de sa ber se existe na familia faedo alguém com o nome LUIZ ALBERTO FAEDO pois preciso entrar em contato com ele urgente.<br />GRATO<br />MARCOS DE OLIVEIRA BATISTA<br />email:marcosoliveira43@oi.com.br"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/6160533831632769311"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/6160533831632769311"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-7027850581876169332",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/7027850581876169332",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "17 de junho de 2013 às 13:59"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-3838869209146223501"
+        },
+        "published": {
+          "$t": "2013-06-15T15:12:13.970-07:00"
+        },
+        "updated": {
+          "$t": "2013-06-15T15:12:13.970-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Achei muito interessante e inclusive salvei alguma..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Achei muito interessante e inclusive salvei algumas fotos para o Francisco Beltrão memorias.<br />https://www.facebook.com/groups/299657053488944/<br />Muito bem feito este portal parabéns !!!!!!"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/3838869209146223501"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/8408800626906498856/comments/default/3838869209146223501"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "uri": {
+              "$t": "https://www.blogger.com/profile/15441412538544224103"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-8408800626906498856",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/8408800626906498856",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-2057319253"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "15 de junho de 2013 às 15:12"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-8395763943486237961"
+        },
+        "published": {
+          "$t": "2013-03-26T19:34:23.817-07:00"
+        },
+        "updated": {
+          "$t": "2013-03-26T19:34:23.817-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "esta faltando a foto da praça"
+        },
+        "content": {
+          "type": "html",
+          "$t": "esta faltando a foto da praça"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4088439231913780376/comments/default/8395763943486237961"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4088439231913780376/comments/default/8395763943486237961"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/noticias-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/noticias-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-4088439231913780376",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/4088439231913780376",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "26 de março de 2013 às 19:34"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-1267148266628570960"
+        },
+        "published": {
+          "$t": "2012-12-12T05:11:46.717-08:00"
+        },
+        "updated": {
+          "$t": "2012-12-12T05:11:46.717-08:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": " meu nome  e elisabete fui casada com luiz plinio ..."
+        },
+        "content": {
+          "type": "html",
+          "$t": " meu nome  e elisabete fui casada com luiz plinio faedo moro em ribeirao preto sao paulo gostaria de ver a foto de francsco jose faedo a minha filha se chama silvana faedo abracos,"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/1267148266628570960"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/1267148266628570960"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-7027850581876169332",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/7027850581876169332",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "12 de dezembro de 2012 às 05:11"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-4159709078605628214"
+        },
+        "published": {
+          "$t": "2012-09-14T17:43:14.561-07:00"
+        },
+        "updated": {
+          "$t": "2012-09-14T17:43:14.561-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Olá, gostei do blog da nossa família parabéns. Sau..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Olá, gostei do blog da nossa família parabéns. Saudades do vó Ângelo."
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/5016352468766302024/comments/default/4159709078605628214"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/5016352468766302024/comments/default/4159709078605628214"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-novas.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-novas.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-5016352468766302024",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/5016352468766302024",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "14 de setembro de 2012 às 17:43"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-1669127041084468580"
+        },
+        "published": {
+          "$t": "2012-08-22T11:42:40.502-07:00"
+        },
+        "updated": {
+          "$t": "2012-08-22T11:42:40.502-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "saudade muita saudades do seu ANGELO ALBRTO FAEDO ..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "saudade muita saudades do seu ANGELO ALBRTO FAEDO (seu faedo )!!!!<br />ass:TATI cidade gauchá paraná"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/5016352468766302024/comments/default/1669127041084468580"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/5016352468766302024/comments/default/1669127041084468580"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-novas.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "tati"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/fotos-novas.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-5016352468766302024",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/5016352468766302024",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "22 de agosto de 2012 às 11:42"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-1052376833757236554"
+        },
+        "published": {
+          "$t": "2012-05-24T15:17:59.078-07:00"
+        },
+        "updated": {
+          "$t": "2012-05-24T15:17:59.078-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Boa Noite, procura-se Vitorio Faedo e Onorio Faedo..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Boa Noite, procura-se Vitorio Faedo e Onorio Faedo, Filhos de Antonio e Marina Faedo.<br /><br />Sou Angelina Faedo, Irma de Vitorio e Onorio, se vc tiver algum conhecimento deles Favor entrar em Contato pelo Telefone (42)3524-4802, União da Vitória.<br />Estou com muita Saudades deles."
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/1052376833757236554"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/7027850581876169332/comments/default/1052376833757236554"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-7027850581876169332",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/7027850581876169332",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "24 de maio de 2012 às 15:17"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-6545880901134730081"
+        },
+        "published": {
+          "$t": "2012-05-06T18:01:01.757-07:00"
+        },
+        "updated": {
+          "$t": "2012-05-06T18:01:01.757-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Ola... adorei ver a arvore.... mas esta faltando a..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Ola... adorei ver a arvore.... mas esta faltando alguns nomes ao menos que sei, dos filhos do Hermes Faedo o nome dele completo é (Antonio Hermes Faedo) a esposa que falta o nome é Dulce Martha Schuengber Faedo e falta o nome de dois filhos, o Antonio Irineu Faedo que recebeu o mesmo nome do seu avô e da Rejane Faedo, se quiser posso passar tb o nome dos netos do Hermes Faedo, a proposito sou filha da Jussara Faedo - (nome completo é Maria Jussara Faedo)...."
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/6186889259319654498/comments/default/6545880901134730081"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/6186889259319654498/comments/default/6545880901134730081"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/2012/05/irineu-faedo-e-maria-conceicao-faedo.html?showComment=1336352461757#c6545880901134730081",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "nanda"
+            },
+            "uri": {
+              "$t": "https://www.blogger.com/profile/18096101722388854800"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/2012/05/irineu-faedo-e-maria-conceicao-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-6186889259319654498",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/6186889259319654498",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-1228077686"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "6 de maio de 2012 às 18:01"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-6250097077725558909"
+        },
+        "published": {
+          "$t": "2012-04-30T19:10:29.977-07:00"
+        },
+        "updated": {
+          "$t": "2012-04-30T19:10:29.977-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Esclarecendo que certificado Giuseppe Faedo é o me..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Esclarecendo que certificado Giuseppe Faedo é o mesmo Josep Faedo."
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/1622248374885176922/comments/default/6250097077725558909"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/1622248374885176922/comments/default/6250097077725558909"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/arquivos-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Gerson Luiz Faedo"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/arquivos-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-1622248374885176922",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/1622248374885176922",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "30 de abril de 2012 às 19:10"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-7925158276218383295"
+        },
+        "published": {
+          "$t": "2012-04-30T18:59:17.909-07:00"
+        },
+        "updated": {
+          "$t": "2012-04-30T18:59:17.909-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Quando falar de Josep Faedo, para que  entendam qu..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Quando falar de Josep Faedo, para que  entendam que o referido nome em Italiano é giuseppe faedo, pois várias perguntas de outros países querem saber se é a mesma pessoa, portanto sugiro que qdo falar em Josep deixar entre  parentes ( giuseppe). josep(giuseppe faedo)."
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/7925158276218383295"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/7925158276218383295"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Gerson L. Faedo"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-4790361651861878583",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/4790361651861878583",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "30 de abril de 2012 às 18:59"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-4377050411000944280"
+        },
+        "published": {
+          "$t": "2012-04-30T18:53:19.916-07:00"
+        },
+        "updated": {
+          "$t": "2012-04-30T18:53:19.916-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Nesse aonde foi construída a primeira habitação, n..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Nesse aonde foi construída a primeira habitação, na antiga Marrecas, Hoje Francisco Beltrão, temos que deixar  em destaque que nesse lugar é o centro de Francisco beltrão"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/4377050411000944280"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/4790361651861878583/comments/default/4377050411000944280"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Gerson Faedo"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-4790361651861878583",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/4790361651861878583",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "30 de abril de 2012 às 18:53"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.post-262538050498737668"
+        },
+        "published": {
+          "$t": "2012-04-07T12:42:24.535-07:00"
+        },
+        "updated": {
+          "$t": "2012-04-07T12:42:24.535-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "nossa que  legal"
+        },
+        "content": {
+          "type": "html",
+          "$t": "nossa que  legal"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/2695202966091743298/comments/default/262538050498737668"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/2695202966091743298/comments/default/262538050498737668"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/2012/04/joao-faedo-e-erina-ferlim.html?showComment=1333827744535#c262538050498737668",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://familiafaedo.blogspot.com/2012/04/joao-faedo-e-erina-ferlim.html",
+          "ref": "tag:blogger.com,1999:blog-7684661181787056048.post-2695202966091743298",
+          "source": "http://www.blogger.com/feeds/7684661181787056048/posts/default/2695202966091743298",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-748583135"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "7 de abril de 2012 às 12:42"
+          }
+        ]
+      }
+    ]
+  }
+}

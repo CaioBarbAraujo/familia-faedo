@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portal & Memorial da Família Faedo — Da Itália ao Brasil (1862–Presente)</title>
+  <meta name="description" content="Acervo histórico, árvore genealógica, fotografias restauradas e dossiê de cidadania italiana da Família Faedo — de Monte Faedo (Vicenza, Itália) ao Rio Grande do Sul e Paraná." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Faixa Tricolor Italiana -->
+  <div class="tricolor-bar">
+    <div class="green"></div>
+    <div class="white"></div>
+    <div class="red"></div>
+  </div>
+
+  <!-- Cabeçalho Principal -->
+  <header class="site-header">
+    <div class="header-container">
+      <div class="brand-area">
+        <img
+          src="documentos_cidadania/04_Brasao_Historico_Familia_Faedo_Italia.jpg"
+          alt="Brasão da Família Faedo"
+          class="crest-img"
+          onclick="openRawImageModal('documentos_cidadania/04_Brasao_Historico_Familia_Faedo_Italia.jpg', 'Brasão Histórico da Família Faedo (Itália)', 'Brasão de Armas e histórico de origem do sobrenome italiano Faedo (Província de Vicenza, Vêneto, Itália).')"
+          title="Clique para ampliar o Brasão da Família Faedo"
+        />
+        <div class="brand-text">
+          <span class="eyebrow">🇮🇹 Monte Faedo (Vicenza) • 🇧🇷 Rio Grande do Sul &amp; Paraná</span>
+          <h1>Portal &amp; Memorial da Família Faedo</h1>
+          <p>Acervo histórico, árvore genealógica, documentos oficiais de imigração (1895) e memórias eternizadas da família.</p>
+        </div>
+      </div>
+
+      <div class="header-stats">
+        <div class="stat-pill">
+          <span class="num">1895</span>
+          <span class="lbl">Chegada Oficial</span>
+        </div>
+        <div class="stat-pill">
+          <span class="num">80</span>
+          <span class="lbl">Fotos Alta Res.</span>
+        </div>
+        <div class="stat-pill">
+          <span class="num">3</span>
+          <span class="lbl">Certificados AHRS</span>
+        </div>
+        <div class="stat-pill">
+          <span class="num">6+</span>
+          <span class="lbl">Gerações</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navegação Principal -->
+  <nav class="main-nav">
+    <div class="nav-inner">
+      <div class="nav-tabs">
+        <button class="nav-btn active" data-tab="inicio" onclick="switchTab('inicio')">🏛️ Início &amp; Resumo</button>
+        <button class="nav-btn" data-tab="historia" onclick="switchTab('historia')">📜 História &amp; Pioneiros</button>
+        <button class="nav-btn" data-tab="arvore" onclick="switchTab('arvore')">🌳 Árvore Genealógica</button>
+        <button class="nav-btn cidadania-tab" data-tab="cidadania" onclick="switchTab('cidadania')">🇮🇹 Cidadania Italiana (Dossiê Juh)</button>
+        <button class="nav-btn" data-tab="galeria" onclick="switchTab('galeria')">📸 Galeria de Fotos (45)</button>
+        <button class="nav-btn" data-tab="arquivo" onclick="switchTab('arquivo')">📚 Blog Original &amp; Mural</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Conteúdo Principal -->
+  <main class="main-container">
+
+    <!-- ====================================================================
+         ABA 1: INÍCIO & RESUMO
+         ==================================================================== -->
+    <section id="tab-inicio" class="tab-panel active">
+      <div class="alert-box green">
+        <h4>✨ Bem-vindos ao Novo Portal Eternizado da Família Faedo!</h4>
+        <p>
+          Este portal preserva <strong>100% dos textos, biografias, poemas, árvore genealógica, certificados de imigração e fotografias em resolução máxima</strong> do projeto histórico da família (originalmente publicado em <code>familiafaedo.blogspot.com</code>), agora organizado, restaurado e enriquecido com um <strong>Dossiê Completo para Cidadania Italiana</strong>.
+        </p>
+      </div>
+
+      <div class="grid-3" style="margin-bottom: 2rem;">
+        <div class="card">
+          <span class="card-badge badge-red">As Raízes na Itália (1862–1895)</span>
+          <h3 style="margin-bottom: 0.5rem;">Monte Faedo, Vicenza (Vêneto)</h3>
+          <p style="color: var(--text-secondary); font-size: 0.94rem; margin-bottom: 1rem;">
+            Natural de <strong>Monte Faedo</strong> (Comune di Monte di Malo, Província de Vicenza), <strong>Giuseppe Faedo (Josep Faedo)</strong>, filho de <strong>Luizi Faedo e Margarida Dalban</strong>, veio conhecer a América em 1891, atuou na colonização de Nova Bassano (1892) e desembarcou definitivamente em <strong>20/10/1895</strong> com a esposa <strong>Rosa Vicário</strong> e os filhos <strong>Luiz Antônio (Luigi)</strong> e <strong>João ("Joanim")</strong> em Alfredo Chaves (Veranópolis - RS).
+          </p>
+          <button class="btn btn-outline" onclick="switchTab('historia')">Ler História Completa →</button>
+        </div>
+
+        <div class="card">
+          <span class="card-badge badge-gold">A Epopeia no Sul do Brasil</span>
+          <h3 style="margin-bottom: 0.5rem;">Do Rio Grande do Sul a Francisco Beltrão</h3>
+          <p style="color: var(--text-secondary); font-size: 0.94rem; margin-bottom: 1rem;">
+            De Veranópolis e Nova Bassano, a família expandiu raízes por <strong>Bento Gonçalves, Marau, Água Santa e Passo Fundo (RS)</strong>. Em 1942–1945, <strong>Luiz Antônio Faedo</strong>, seu irmão <strong>João Faedo ("Joanim")</strong> e o irmão paterno <strong>Vitório Faedo</strong> protagonizaram o desbravamento histórico da antiga <strong>Vila Marrecas (atual Francisco Beltrão - PR)</strong>.
+          </p>
+          <button class="btn btn-outline" onclick="switchTab('arvore')">Explorar Árvore Genealógica →</button>
+        </div>
+
+        <div class="card">
+          <span class="card-badge badge-green">Direito de Sangue (Jure Sanguinis)</span>
+          <h3 style="margin-bottom: 0.5rem;">Dossiê de Cidadania Italiana</h3>
+          <p style="color: var(--text-secondary); font-size: 0.94rem; margin-bottom: 1rem;">
+            Os 3 Certificados Oficiais de Chegada ao Brasil (<strong>Códice 200, Folha 24, Lançamentos 146, 147 e 149 do Arquivo Histórico do RS</strong>) foram auditados e transcritos. Preparamos um guia completo com a Comune italiana exata, variações de nome para a CNN e cartórios no RS e PR.
+          </p>
+          <button class="btn btn-green" onclick="switchTab('cidadania')">Abrir Dossiê da Cidadania →</button>
+        </div>
+      </div>
+
+      <!-- Destaques Visuais Rápidos -->
+      <div class="section-header">
+        <div>
+          <h2>Documentos &amp; Retratos Emblemáticos do Acervo</h2>
+          <p>Clique em qualquer imagem para ampliar em alta resolução ou baixar o arquivo original.</p>
+        </div>
+        <button class="btn btn-primary" onclick="switchTab('galeria')">Ver Todas as 45 Fotos Catalogadas →</button>
+      </div>
+
+      <div class="grid-3">
+        <div class="photo-card">
+          <div class="photo-thumb-wrap" onclick="openLightbox('doc-01')">
+            <img src="documentos_cidadania/01_Certificado_Chegada_1895_GIUSEPPE_FAEDO_Lancamento_146.jpg" alt="Certificado Giuseppe Faedo" />
+            <span class="photo-year-badge">20/10/1895</span>
+          </div>
+          <div class="photo-body">
+            <div>
+              <span class="card-badge badge-green">Documento Oficial AHRS</span>
+              <h4>Certificado de Chegada — Giuseppe Faedo</h4>
+              <p class="photo-caption">Códice 200, Folha 24, Lançamento Nr. 146 — Navio "Satellite", destino Alfredo Chaves (Veranópolis/RS).</p>
+            </div>
+            <div class="photo-actions">
+              <button class="btn btn-primary" onclick="openLightbox('doc-01')">🔍 Inspecionar</button>
+              <a class="btn btn-outline" href="documentos_cidadania/01_Certificado_Chegada_1895_GIUSEPPE_FAEDO_Lancamento_146.jpg" download>⬇️ Baixar</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="photo-card">
+          <div class="photo-thumb-wrap" onclick="openLightbox('pio-01')">
+            <img src="imagens_alta_resolucao/pages_04_historia-da-familia-faedo/02_523273_398839913461629_100000068720530_1629222_1853305122_n.jpg" alt="Luiz Antônio Faedo" />
+            <span class="photo-year-badge">Pioneiro</span>
+          </div>
+          <div class="photo-body">
+            <div>
+              <span class="card-badge badge-red">Patriarcas &amp; Pioneiros</span>
+              <h4>Luiz Antônio Faedo (Luigi Faedo)</h4>
+              <p class="photo-caption">Pioneiro desbravador de Francisco Beltrão - PR, proprietário da 1ª habitação construída na antiga Vila Marrecas.</p>
+            </div>
+            <div class="photo-actions">
+              <button class="btn btn-primary" onclick="openLightbox('pio-01')">🔍 Ampliar</button>
+              <a class="btn btn-outline" href="imagens_alta_resolucao/pages_04_historia-da-familia-faedo/02_523273_398839913461629_100000068720530_1629222_1853305122_n.jpg" download>⬇️ Baixar</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="photo-card">
+          <div class="photo-thumb-wrap" onclick="openLightbox('pio-04')">
+            <img src="imagens_alta_resolucao/pages_01_fotos-da-familia-faedo/04_Familia_Faedo.jpg" alt="Primeiras Gerações no Brasil" />
+            <span class="photo-year-badge">Século XX</span>
+          </div>
+          <div class="photo-body">
+            <div>
+              <span class="card-badge badge-gold">Registro Histórico</span>
+              <h4>Primeiras Gerações da Família Faedo no Brasil</h4>
+              <p class="photo-caption">Luiz Antônio Faedo (à esquerda) ao lado dos filhos de João Faedo e Erina Ferlim.</p>
+            </div>
+            <div class="photo-actions">
+              <button class="btn btn-primary" onclick="openLightbox('pio-04')">🔍 Ampliar</button>
+              <a class="btn btn-outline" href="imagens_alta_resolucao/pages_01_fotos-da-familia-faedo/04_Familia_Faedo.jpg" download>⬇️ Baixar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ====================================================================
+         ABA 2: HISTÓRIA, BIOGRAFIAS & LINHA DO TEMPO
+         ==================================================================== -->
+    <section id="tab-historia" class="tab-panel">
+      <div class="section-header">
+        <div>
+          <h2>📜 A Saga da Família Faedo: Da Itália ao Brasil</h2>
+          <p>Linha do tempo histórica, biografias dos pioneiros e o poema "O Velho Guerreiro".</p>
+        </div>
+      </div>
+
+      <!-- Linha do Tempo Cronológica -->
+      <div class="timeline">
+        <div class="timeline-item">
+          <span class="timeline-year">~1862 — Monte Faedo, Vicenza (Itália)</span>
+          <h3>Nascimento de Giuseppe Faedo (Josep Faedo) e Rosa Vicário</h3>
+          <p>
+            Natural de <strong>Monte Faedo</strong> (fração de Faedo, Comune di Monte di Malo, Província de Vicenza, região do Vêneto, Itália), <strong>Giuseppe Faedo (Josep Faedo)</strong> era filho de <strong>Luizi (Luigi) Faedo</strong> e <strong>Margarida (Margarita) Dalban</strong>. Agrimensor prático e técnico em vinicultura, casou-se na Itália com <strong>Rosa Vicário Faedo</strong>, onde nasceram seus primeiros filhos, incluindo <strong>Luigi Faedo (Luiz Antônio Faedo)</strong> e <strong>João Faedo ("Joanim")</strong>.
+          </p>
+        </div>
+
+        <div class="timeline-item">
+          <span class="timeline-year">1891 – 1892 — Argentina, Uruguai e Nova Bassano (RS)</span>
+          <h3>Primeira Viagem à América e Colonização de Nova Bassano</h3>
+          <p>
+            Em <strong>1891</strong>, Giuseppe Faedo veio conhecer a América deixando inicialmente a família na Europa, percorrendo a Argentina e o Uruguai. Em <strong>1892</strong>, graças aos seus conhecimentos como agrimensor prático e técnico em vinicultura, foi convidado para orientar a colonização italiana na região da futura cidade de <strong>Nova Bassano, no Rio Grande do Sul</strong>. Em seguida, retornou à Itália para buscar a esposa e os filhos.
+          </p>
+        </div>
+
+        <div class="timeline-item">
+          <span class="timeline-year">20 de Outubro de 1895 — Alfredo Chaves / Veranópolis (RS)</span>
+          <h3>Desembarque Oficial da Família no Brasil (Navio "Satellite")</h3>
+          <p>
+            Em <strong>20 de outubro de 1895</strong>, <strong>Giuseppe Faedo</strong> (33 anos, Lançamento Nr. 146), sua esposa <strong>Rosa Vicário Faedo</strong> (33 anos, Lançamento Nr. 147) e os filhos (incluindo <strong>Luigi Faedo / Luiz Antônio Faedo</strong>, com 10 anos, Lançamento Nr. 149, e <strong>João Faedo</strong>) desembarcaram oficialmente via Rio de Janeiro e seguiram no <strong>Navio "Satellite"</strong> até o Rio Grande do Sul, com destino à colônia de <strong>Alfredo Chaves (atual Veranópolis - RS)</strong>, conforme registrado no Códice 200, Folha 24 do Arquivo Histórico do RS.
+          </p>
+        </div>
+
+        <div class="timeline-item">
+          <span class="timeline-year">Início do Século XX — Bento Gonçalves, Marau, Água Santa e Passo Fundo (RS)</span>
+          <h3>A Forja e as Raízes Gaúchas: João Faedo ("Joanim") e Erina Ferlim</h3>
+          <p>
+            Passando por Bento Gonçalves e pelo Rio da Casca rumo a <strong>Marau - RS</strong>, <strong>João Faedo</strong> casou-se com <strong>Erina Ferlim</strong>, tendo 12 filhos. Conforme o relato histórico do filho <strong>Ângelo Alberto Faedo ("Angelim", nascido em 24/11/1927 em Passo Fundo - RS)</strong>:
+          </p>
+          <blockquote style="margin-top: 0.75rem; padding: 0.85rem 1.15rem; background: var(--bg-parchment); border-left: 4px solid var(--italy-green); font-style: italic;">
+            "Meu pai tinha 5 alqueires de terra e uma Ferraria. Nos primeiros anos o pai trabalhava no porão de casa, depois fizeram a ferraria onde ele fazia foice, foice de cortar trigo até navalha de cortar barba — ele temperava e, se não prestasse, dava outra. João Faedo tirava o sustento da pequena ferraria e toda ferramenta que um ferreiro pôde fazer meu pai fazia, e meu irmão José Faedo aprendeu com meu pai; José fazia até motor de carro. E na colônia de terra nós plantávamos trigo, batata. No meio da cidade de Água Santa tinha um quiosque para tomar chimarrão! O Sr. João Faedo morou na cidade de Marau, 2 vezes moraram na Vila Marrecas no Paraná (atual Francisco Beltrão) e posteriormente moraram em Água Santa, onde morreram e criaram suas raízes."
+          </blockquote>
+        </div>
+
+        <div class="timeline-item">
+          <span class="timeline-year">1911 — Rio Grande do Sul</span>
+          <h3>Nascimento de Vitório Faedo</h3>
+          <p>
+            Em <strong>07 de novembro de 1911</strong> nasce <strong>Vitório Faedo</strong>, filho de <strong>Giuseppe Faedo (José Faedo)</strong> e <strong>Narciza Pereira</strong> — irmão paterno de Luiz Antônio Faedo e João Faedo ("Joanim"). Casou-se com <strong>Angelina Ferneda</strong>, com quem teve 10 filhos.
+          </p>
+        </div>
+
+        <div class="timeline-item">
+          <span class="timeline-year">Década de 1930 a Maio de 1943 — Do RS ao Território Federal do Iguaçu (PR)</span>
+          <h3>A Cavalgada Histórica de Luiz Antônio Faedo até o Rio Marrecas</h3>
+          <p>
+            Na década de 1930, Giuseppe Faedo e seu irmão João (interessado por pedras preciosas) visitaram o Paraná e incentivaram <strong>Luiz Antônio Faedo</strong> a conhecer as terras férteis do Sudoeste. Após uma primeira viagem a cavalo de 18 dias entre Passo Fundo e Mariópolis por volta de 1940, em <strong>outubro de 1942</strong> Luiz Antônio Faedo e seu irmão <strong>João Faedo ("Joanim")</strong> fizeram o reconhecimento da região da futura Francisco Beltrão.
+          </p>
+          <p style="margin-top: 0.5rem;">
+            Em <strong>13 de maio de 1943</strong>, no recém-criado <strong>Território Federal do Iguaçu</strong> (governo Getúlio Vargas), após uma viagem a cavalo que durou mais de um mês desde o Rio Grande do Sul, Luiz Antônio Faedo chegou às imediações de <strong>Clevelândia - PR</strong>, adquirindo uma propriedade às margens do Rio Pato Branco (onde ficou seu filho <strong>Adão Faedo</strong>). No mesmo ano, abrindo picadas na mata virgem, chegou às margens do <strong>Rio Marrecas</strong>, onde conheceu <strong>Sebastião Müller</strong> (mais tarde seu compadre).
+          </p>
+        </div>
+
+        <div class="timeline-item">
+          <span class="timeline-year">1945 – 1946 — Vila Marrecas (Francisco Beltrão - PR)</span>
+          <h3>Fundação do Povoado de Francisco Beltrão e Chegada de Vitório Faedo</h3>
+          <p>
+            Em <strong>1945–1946</strong>, <strong>Luiz Antônio Faedo</strong> estabeleceu-se em definitivo em Marrecas e comprou a posse de aproximadamente <strong>100 hectares de terras</strong> de Sebastião Müller — exatamente onde hoje se situa o <strong>centro da cidade de Francisco Beltrão</strong> (sendo o seu rancho considerado a <strong>Foto N.º 4 / primeira habitação construída em Marrecas</strong>). Para impulsionar o povoado que nascia, Luiz Antônio vendia terrenos em longas prestações e <strong>doava um ou dois pinheiros para cada novo morador derrubar e construir sua casa</strong>. Também doou à comunidade o terreno da <strong>Praça Eduardo Virmond Suplicy</strong> e do <strong>Cemitério Municipal</strong>, além de vender a baixo preço o terreno do atual <strong>Colégio Nossa Senhora da Glória</strong>.
+          </p>
+          <p style="margin-top: 0.5rem;">
+            Também por volta de <strong>1945</strong>, seu irmão paterno <strong>Vitório Faedo e Angelina Ferneda</strong> viajaram <strong>21 dias em carroças puxadas por mulas</strong> do RS até Francisco Beltrão com os 6 primeiros filhos (Verônica, Antoninho, Irineu, Terezinha, Maria e Luiz), residindo próximo ao Seminário São José (Bairro Vila Nova) até 1953, mudando-se para Enéas Marques e, em 1960, para a <strong>Comunidade de Divisor</strong>, onde nasceram os filhos mais novos (Natalina, José, Lurdes e Inez).
+          </p>
+        </div>
+
+        <div class="timeline-item">
+          <span class="timeline-year">1969, 1984 e 2009 — Homenagens Eternas em Francisco Beltrão</span>
+          <h3>Avenida Luiz Antônio Faedo e Praça Josep Faedo</h3>
+          <p>
+            Em <strong>16 de junho de 1969</strong>, faleceu na Comunidade de Divisor o pioneiro <strong>Vitório Faedo</strong>, aos 58 anos. Em <strong>03 de junho de 1984</strong>, numa ensolarada tarde de outono, faleceu aos 90 anos o patriarca pioneiro <strong>Luiz Antônio Faedo</strong>, homenageado pelo município com o nome de uma das principais vias públicas do centro da cidade: a <strong>Avenida Luiz Antônio Faedo</strong>.
+          </p>
+          <p style="margin-top: 0.5rem;">
+            Em <strong>outubro de 2009</strong>, a Prefeitura de Francisco Beltrão revitalizou e reinaugurou no centro da cidade (Rua Palmas) a <strong>Praça Josep Faedo</strong> em homenagem ao patriarca imigrante italiano, solenidade que contou com o discurso emocionante de <strong>Sara Faedo da Costa</strong>, neta de Luiz Antônio Faedo: <em>"Esta obra valoriza o lugar. Meu avô gostava tanto daqui, tanto que deixou tudo e veio pra cá da região de Passo Fundo (RS)."</em>
+          </p>
+        </div>
+      </div>
+
+      <!-- Poema O Velho Guerreiro -->
+      <div class="poem-box">
+        <span class="card-badge badge-gold">Poesia &amp; Memória</span>
+        <h3>"O Velho Guerreiro"</h3>
+        <div class="poem-stanza">
+          Lá da minha terra eu parti!<br />
+          E trouxe a bruaca, carregada de humildade!<br />
+          E quando cheguei por aqui!<br />
+          Com coragem eu construí, uma nova cidade!
+        </div>
+        <div class="poem-stanza">
+          Lá quando as terras gaúchas eu deixei!<br />
+          Na minha carroça eu carreguei muita sabedoria!<br />
+          Porque no fundo eu sabia!<br />
+          O que Vila Marrecas se tornaria!<br />
+          A minha casa abençoada!
+        </div>
+        <div class="poem-stanza">
+          Sobre lombo de cavalo!<br />
+          Desbravando um novo mundo!<br />
+          Nas terras por onde passei!<br />
+          O meu nome deixei!<br />
+          Com coragem e sem medo!<br />
+          Meu sangue é italiano, sou gaúcho com tradição!<br />
+          Meu nome: <strong>Luiz Antônio Faedo</strong>!<br />
+          Pioneiro de Francisco Beltrão!
+        </div>
+        <p style="font-size: 0.9rem; color: var(--text-secondary); font-weight: 600;">
+          — Autor: <strong>Leandro de Souza Faedo</strong> (Em homenagem a Luiz Antônio Faedo, 12/04/2012)
+        </p>
+      </div>
+    </section>
+
+    <!-- ====================================================================
+         ABA 3: ÁRVORE GENEALÓGICA INTERATIVA
+         ==================================================================== -->
+    <section id="tab-arvore" class="tab-panel">
+      <div class="section-header">
+        <div>
+          <h2>🌳 Árvore Genealógica Completa da Família Faedo</h2>
+          <p>Todos os ramos, gerações, cônjuges e descendentes catalogados nos documentos, fotos e depoimentos da família.</p>
+        </div>
+      </div>
+
+      <!-- Geração 1 e 2: Raiz Italiana -->
+      <div class="branch-card gold-top">
+        <span class="card-badge badge-gold">1ª e 2ª Gerações — Raiz na Itália (Monte Faedo, Comune di Monte di Malo, Vicenza)</span>
+        <h3>🇮🇹 Patriarcas Italianos</h3>
+        <div class="person-list">
+          <div class="person-item">
+            <strong>1ª Geração: Luizi (Luigi) Faedo × Margarida (Margarita) Dalban</strong>
+            <small>Pais de Giuseppe (Josep) Faedo e de João Faedo (irmão de Giuseppe que visitou o PR na década de 1930).</small>
+          </div>
+          <div class="person-item">
+            <strong>2ª Geração (Dante Causa): Giuseppe Faedo (Josep Faedo, ~1862)</strong>
+            <small>Nascido em Monte Faedo (Vicenza). Agrimensor prático e vinicultor. Chegou em 20/10/1895 no Navio "Satellite" (AHRS Códice 200, Folha 24, Lanç. 146).</small>
+          </div>
+          <div class="person-item">
+            <strong>1ª Esposa (na Itália): Rosa Vicário Faedo (~1862)</strong>
+            <small>Italiana, chegou em 20/10/1895 (AHRS Lanç. 147). Mãe de Luiz Antônio Faedo (Luigi) e João Faedo ("Joanim").</small>
+          </div>
+          <div class="person-item">
+            <strong>2ª União (no Brasil): Narciza Pereira</strong>
+            <small>Mãe de Vitório Faedo (nascido em 07/11/1911 no RS, pioneiro em Francisco Beltrão - PR).</small>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ramo 1: Luiz Antônio Faedo -->
+      <div class="branch-card">
+        <span class="card-badge badge-red">Ramo 1 — Descendentes de Luiz Antônio Faedo (Luigi Faedo, ~1885 – 03/06/1984)</span>
+        <h3>1. Ramo de Luiz Antônio Faedo (1º e 2º Casamentos)</h3>
+        <p style="color: var(--text-secondary); font-size: 0.94rem; margin-top: 0.35rem;">
+          Filho de Giuseppe Faedo e Rosa Vicário Faedo. Nascido na Itália (~1885), desembarcou no Brasil aos 10 anos em 20/10/1895 (Lançamento Nr. 149 do AHRS). Viveu no RS (Passo Fundo) e foi o grande pioneiro de Francisco Beltrão - PR, onde faleceu em 03/06/1984.
+        </p>
+
+        <h4 style="margin-top: 1.25rem; color: var(--italy-red-dark);">1.1. Primeiro Casamento: com Dona Leontina Assis Cavalheiro Faedo (Leontina Nunes Cavalheiro)</h4>
+        <div class="person-list">
+          <div class="person-item">
+            <strong>1. Benito Rômulo Faedo</strong>
+            <small>Casado com Sra. Lourdes Faedo.</small>
+          </div>
+          <div class="person-item">
+            <strong>2. Adão Faedo</strong>
+            <small>Casado com Sra. Ema Faedo. Ficou na propriedade às margens do Rio Pato Branco em 1943. Filho citado: <strong>Luiz Faedo</strong>.</small>
+          </div>
+          <div class="person-item">
+            <strong>3. Adroaldo Faedo</strong>
+            <small>1ª esposa: Sra. Leonor. Posteriormente residiu em Rondônia com sua 2ª esposa e filha.</small>
+          </div>
+          <div class="person-item">
+            <strong>4. Plínio Luiz Faedo</strong>
+            <small>Atleta em Passo Fundo (1950–1958) e Fiscal da Receita Estadual no PR (Porto Lupion/Capanema, 1965–1968). Filho: <strong>Gerson Luiz Faedo</strong> → Neto: <strong>Gerson L. Faedo Jr.</strong> (Também citado no mural: Luiz Plínio Faedo × Elisabete → filha Silvana Faedo).</small>
+          </div>
+          <div class="person-item">
+            <strong>5. Rosalino Tácito Faedo</strong>
+            <small>Casado com Sra. Maria Agnoleto Faedo. Filhos: <strong>Marco Antônio Faedo</strong>, <strong>Márcia Rosely Faedo</strong> e <strong>Marta Aparecida Faedo</strong>.</small>
+          </div>
+          <div class="person-item">
+            <strong>6. João Flaviano Faedo</strong>
+            <small>Casado com Sra. Marlene Faedo. Filho citado: <strong>Marcelo Faedo</strong>.</small>
+          </div>
+        </div>
+
+        <h4 style="margin-top: 1.35rem; color: var(--italy-red-dark);">1.2. Segundo Casamento: com Dona Maria Conceição Faedo</h4>
+        <div class="person-list">
+          <div class="person-item">
+            <strong>Rosa Faedo Teixeira</strong>
+            <small>Casada com Sr. Odair Teixeira → Filha: <strong>Rosana Shoaila Teixeira</strong>.</small>
+          </div>
+          <div class="person-item">
+            <strong>Juca Faedo</strong>
+            <small>Casado com Sra. Nedir (Lenir) → Filha: <strong>Krishna Faedo</strong> → Neto: <strong>Gabriel Asafe Faedo Metzler</strong>.</small>
+          </div>
+          <div class="person-item">
+            <strong>Sara Faedo da Costa (Neta)</strong>
+            <small>Neta de Luiz Antônio Faedo que representou a família na reinauguração da Praça Josep Faedo em Francisco Beltrão (2009).</small>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ramo 2: João Faedo ("Joanim") × Erina Ferlim -->
+      <div class="branch-card green-top">
+        <span class="card-badge badge-green">Ramo 2 — Descendentes de João Faedo ("Joanim") × Erina Ferlim (12 Filhos)</span>
+        <h3>2. Ramo de João Faedo e Erina Ferlim (Marau, Francisco Beltrão e Água Santa - RS)</h3>
+        <p style="color: var(--text-secondary); font-size: 0.94rem; margin-top: 0.35rem;">
+          Filho de Giuseppe Faedo e Rosa Vicário Faedo. Casou-se com <strong>Erina Ferlim (Ferlin)</strong> em Marau - RS, viveu duas vezes em Vila Marrecas (Francisco Beltrão - PR) e radicou-se em <strong>Água Santa - RS</strong>, onde manteve sua célebre ferraria e colônia agrícola. Tiveram <strong>12 filhos</strong>:
+        </p>
+
+        <div class="person-list">
+          <div class="person-item">
+            <strong>1. Irineu Ferlim Faedo × Maria Conceição Faedo</strong>
+            <small>Primogênito. Pais de 6 filhos: <strong>Arnaldo Helio</strong>, <strong>Homorino</strong>, <strong>César João</strong>, <strong>Antonio Hermes</strong>, <strong>Maria de Lurdes</strong> e <strong>Maria Terezinha</strong> (ver detalhamento completo abaixo).</small>
+          </div>
+          <div class="person-item">
+            <strong>2. Afonso Faedo (Afonsso Faedo)</strong>
+            <small>2º filho de João Faedo e Erina Ferlim.</small>
+          </div>
+          <div class="person-item">
+            <strong>3. José Faedo × Maria</strong>
+            <small>3º filho. Ferreiro e mecânico habilidoso que aprendeu o ofício com o pai João Faedo (colaboração fotográfica de <strong>Ruben Faedo</strong>).</small>
+          </div>
+          <div class="person-item">
+            <strong>4. Adolfo Faedo × Lurdes</strong>
+            <small>4º filho de João Faedo e Erina Ferlim.</small>
+          </div>
+          <div class="person-item">
+            <strong>5. Germano Faedo × Honorina Felizzari Faedo</strong>
+            <small>5º filho. Pais de 6 filhos: <strong>Jorge Auri Faedo</strong>, <strong>Mari de Lurdes Faedo</strong>, <strong>Maria de Fátima Faedo</strong>, <strong>Cleunice Maria Faedo</strong>, <strong>Clarice Terezinha Faedo</strong> e <strong>Odete Marta Faedo</strong>.</small>
+          </div>
+          <div class="person-item">
+            <strong>6. Ângelo Alberto Faedo ("Angelim", 24/11/1927) × Armeri Nunes</strong>
+            <small>6º filho, nascido em Passo Fundo - RS. Guardião da memória oral da família. Neto citado nas fotos: <strong>Eduardo Felipe</strong>.</small>
+          </div>
+          <div class="person-item">
+            <strong>7. Benito Faedo</strong>
+            <small>7º filho de João Faedo e Erina Ferlim (casado, presente na foto de 1964).</small>
+          </div>
+          <div class="person-item">
+            <strong>8. Expedito Faedo</strong>
+            <small>8º filho de João Faedo e Erina Ferlim (casado, presente na foto de 1964).</small>
+          </div>
+          <div class="person-item">
+            <strong>9. Luiz Faedo × Cila</strong>
+            <small>9º filho. Casou-se no ano de 1964 com tia Cila (evento registrado na fotografia histórica da família).</small>
+          </div>
+          <div class="person-item">
+            <strong>10. Humberto Gentil Faedo</strong>
+            <small>10º filho de João Faedo e Erina Ferlim.</small>
+          </div>
+          <div class="person-item">
+            <strong>11. Maria Faedo</strong>
+            <small>11ª filha de João Faedo e Erina Ferlim.</small>
+          </div>
+          <div class="person-item">
+            <strong>12. Helena Faedo</strong>
+            <small>12ª filha de João Faedo e Erina Ferlim.</small>
+          </div>
+        </div>
+
+        <!-- Sub-árvore detalhada de Irineu Faedo (Fan Chart) -->
+        <div style="margin-top: 1.5rem; padding: 1.25rem; background: var(--italy-green-light); border-radius: 10px; border: 1px solid #B7D7C8;">
+          <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.75rem; margin-bottom:0.75rem;">
+            <h4 style="color: var(--italy-green);">🔍 Detalhamento do Gráfico Genealógico (Fan Chart) de Irineu Ferlim Faedo × Maria Conceição Faedo</h4>
+            <button class="btn btn-green" onclick="openLightbox('doc-05')">Ver Gráfico Original em Alta Resolução</button>
+          </div>
+          <div class="person-list">
+            <div class="person-item">
+              <strong>1.1. Arnaldo Helio Faedo × Neusa das Graças Faedo</strong>
+              <small>Filhos: <strong>Rita Faedo</strong>, <strong>Ana Faedo</strong>, <strong>Juliano Faedo</strong>, <strong>Helio Junior Faedo</strong>, <strong>Marcio André Faedo</strong> e <strong>Andreia Maria Faedo</strong>.</small>
+            </div>
+            <div class="person-item">
+              <strong>1.2. Homorino Faedo × Oliva Faedo</strong>
+              <small>Filhas: <strong>Adriana Faedo Boveda</strong> (filha: <strong>Maria Fernanda Faedo Boveda</strong>) e <strong>Márcia Faedo Boveda</strong>.</small>
+            </div>
+            <div class="person-item">
+              <strong>1.3. César João Faedo × Sirlei Maria da Silva Faedo</strong>
+              <small>Filhos: <strong>João Vitor Faedo</strong>, <strong>Cíntia Carla Faedo</strong> (filha: <strong>Gabriela Faedo</strong>) e <strong>Emanuelle Faedo</strong>.</small>
+            </div>
+            <div class="person-item">
+              <strong>1.4. Antonio Hermes Faedo × Dulce Martha Schuengber Faedo</strong>
+              <small>Filhos: <strong>Maria Jussara Faedo</strong> (filha: <strong>Nanda</strong>), <strong>Antonio Irineu Faedo</strong> e <strong>Rejane Faedo</strong>.</small>
+            </div>
+            <div class="person-item">
+              <strong>1.5. Maria de Lurdes Faedo</strong>
+              <small>Filhas: <strong>Juliana da Silva</strong> e <strong>Maria Eduarda da Silva</strong>.</small>
+            </div>
+            <div class="person-item">
+              <strong>1.6. Maria Terezinha Faedo</strong>
+              <small>Filhos: <strong>Marcos Truculo</strong> e <strong>Sonia Truculo</strong>.</small>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ramo 3: Vitório Faedo × Angelina Ferneda -->
+      <div class="branch-card gold-top">
+        <span class="card-badge badge-gold">Ramo 3 — Descendentes de Vitório Faedo (07/11/1911 – 16/06/1969) × Angelina Ferneda (10 Filhos)</span>
+        <h3>3. Ramo de Vitório Faedo e Angelina Ferneda (RS → Francisco Beltrão / Divisor - PR)</h3>
+        <p style="color: var(--text-secondary); font-size: 0.94rem; margin-top: 0.35rem;">
+          Filho de <strong>Giuseppe Faedo (José Faedo) e Narciza Pereira</strong>. Em ~1945 migrou do RS para Francisco Beltrão em uma jornada de 21 dias com carroças puxadas por mulas. Morou no Bairro Vila Nova (próximo ao Seminário São José) até 1953, em Enéas Marques e, a partir de 1960, na Comunidade de Divisor (Francisco Beltrão), onde faleceu em 16/06/1969 aos 58 anos. Colaboração histórica: neta <strong>Sirlei Faedo</strong>.
+        </p>
+        <div class="person-list">
+          <div class="person-item"><strong>1. Antoninho (Antônio) Faedo</strong><small>Nascido no RS, veio na viagem de 1945.</small></div>
+          <div class="person-item"><strong>2. Verônica Faedo</strong><small>Nascida no RS, veio na viagem de 1945.</small></div>
+          <div class="person-item"><strong>3. Terezinha Faedo</strong><small>Nascida no RS, veio na viagem de 1945.</small></div>
+          <div class="person-item"><strong>4. Maria Faedo</strong><small>Nascida no RS, veio na viagem de 1945.</small></div>
+          <div class="person-item"><strong>5. Irineu Faedo</strong><small>Nascido no RS, veio na viagem de 1945.</small></div>
+          <div class="person-item"><strong>6. Luiz Faedo</strong><small>Nascido no RS, veio na viagem de 1945.</small></div>
+          <div class="person-item"><strong>7. Natalina Faedo</strong><small>Nascida em Francisco Beltrão - PR.</small></div>
+          <div class="person-item"><strong>8. José Faedo</strong><small>Nascido em Francisco Beltrão - PR.</small></div>
+          <div class="person-item"><strong>9. Lurdes (Lourdes) Faedo</strong><small>Nascida em Francisco Beltrão - PR.</small></div>
+          <div class="person-item"><strong>10. Inez Faedo</strong><small>Nascida em Francisco Beltrão - PR.</small></div>
+        </div>
+      </div>
+
+      <!-- Registro Colateral em Minas Gerais (1896) -->
+      <div class="branch-card">
+        <span class="card-badge badge-red">Registro Adicional no Arquivo Público Mineiro (05/04/1896)</span>
+        <h3>4. Ramo Faedo registrado em Minas Gerais (Embarcação "Colombo", 1896)</h3>
+        <p style="color: var(--text-secondary); font-size: 0.93rem;">
+          Catalogado por Leandro de Souza Faedo na página de Notícias do blog: registro <strong>SA-884 (pág. 243, Microfilme Rolo 02) do Arquivo Público Mineiro (APM)</strong>, referente à entrada na Hospedaria em <strong>05/04/1896</strong> a bordo da embarcação <strong>"Colombo"</strong>:
+          <strong>Tranquillo Faedo</strong> (40 anos, italiano), esposa <strong>Marianna Faedo</strong> (37 anos) e os filhos <strong>Paride Faedo</strong> (15 anos), <strong>Virginia Faedo</strong> (14 anos), <strong>Albino Faedo</strong> (10 anos), <strong>Albina Faedo</strong> (3 anos) e <strong>Almerico Faedo</strong> (1 ano).
+        </p>
+      </div>
+    </section>
+
+    <!-- ====================================================================
+         ABA 4: DOSSIÊ DE CIDADANIA ITALIANA (ESPECIAL JUH)
+         ==================================================================== -->
+    <section id="tab-cidadania" class="tab-panel">
+      <div class="section-header">
+        <div>
+          <h2>🇮🇹 Dossiê de Cidadania Italiana — Família Faedo</h2>
+          <p>Guia técnico e documental completo preparado para auxiliar a Juh e a família no reconhecimento da cidadania italiana (Jure Sanguinis).</p>
+        </div>
+      </div>
+
+      <div class="alert-box">
+        <h4>🔎 Descoberta Importante na Auditoria dos 3 Certificados de Chegada (1895)</h4>
+        <p>
+          Ao inspecionar as imagens originais em alta resolução da aba <em>"Arquivos da Família Faedo"</em>, identificamos um detalhe fundamental para o processo de cidadania: no blog antigo, a 1ª imagem estava com a legenda digitada como <em>"GIUSEPPE FAEDO"</em>, mas o documento em si é o certificado de <strong>LUIGI FAEDO (com 10 anos de idade, filho de Giuseppe Faedo e Rosa Faedo — ou seja, Luiz Antônio Faedo!)</strong>, enquanto o 2º certificado é o de <strong>GIUSEPPE FAEDO (33 anos)</strong> e o 3º é o de <strong>ROSA FAEDO (33 anos)</strong>. Todos os três estão agora corretamente renomeados e transcritos abaixo!
+        </p>
+      </div>
+
+      <!-- Os 3 Certificados Lado a Lado -->
+      <div class="grid-3" style="margin-bottom: 2rem;">
+        <div class="photo-card">
+          <div class="photo-thumb-wrap" onclick="openLightbox('doc-01')">
+            <img src="documentos_cidadania/01_Certificado_Chegada_1895_GIUSEPPE_FAEDO_Lancamento_146.jpg" alt="Certificado Giuseppe Faedo" />
+            <span class="photo-year-badge">Lançamento 146</span>
+          </div>
+          <div class="photo-body">
+            <div>
+              <span class="card-badge badge-green">1. Patriarca (Dante Causa)</span>
+              <h4>GIUSEPPE FAEDO (33 anos)</h4>
+              <p class="photo-caption">
+                <strong>Certificado Nr.:</strong> 00075324<br />
+                <strong>Chegada:</strong> 20/10/1895 (Navio "Satellite")<br />
+                <strong>Estado Civil:</strong> Casado com Rosa Faedo<br />
+                <strong>Destino:</strong> Alfredo Chaves / RS (Veranópolis)<br />
+                <strong>Registro AHRS:</strong> Códice 200, Folha 24, Lanç. Nr. 146
+              </p>
+            </div>
+            <div class="photo-actions">
+              <button class="btn btn-primary" onclick="openLightbox('doc-01')">🔍 Ler Documento</button>
+              <a class="btn btn-outline" href="documentos_cidadania/01_Certificado_Chegada_1895_GIUSEPPE_FAEDO_Lancamento_146.jpg" download>⬇️ Baixar</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="photo-card">
+          <div class="photo-thumb-wrap" onclick="openLightbox('doc-02')">
+            <img src="documentos_cidadania/02_Certificado_Chegada_1895_ROSA_VICARIO_FAEDO_Lancamento_147.jpg" alt="Certificado Rosa Vicário Faedo" />
+            <span class="photo-year-badge">Lançamento 147</span>
+          </div>
+          <div class="photo-body">
+            <div>
+              <span class="card-badge badge-green">2. Matriarca Italiana</span>
+              <h4>ROSA VICÁRIO FAEDO (33 anos)</h4>
+              <p class="photo-caption">
+                <strong>Certificado Nr.:</strong> 00075353<br />
+                <strong>Chegada:</strong> 20/10/1895 (Navio "Satellite")<br />
+                <strong>Estado Civil:</strong> Casada com Giuseppe Faedo<br />
+                <strong>Destino:</strong> Alfredo Chaves / RS (Veranópolis)<br />
+                <strong>Registro AHRS:</strong> Códice 200, Folha 24, Lanç. Nr. 147
+              </p>
+            </div>
+            <div class="photo-actions">
+              <button class="btn btn-primary" onclick="openLightbox('doc-02')">🔍 Ler Documento</button>
+              <a class="btn btn-outline" href="documentos_cidadania/02_Certificado_Chegada_1895_ROSA_VICARIO_FAEDO_Lancamento_147.jpg" download>⬇️ Baixar</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="photo-card">
+          <div class="photo-thumb-wrap" onclick="openLightbox('doc-03')">
+            <img src="documentos_cidadania/03_Certificado_Chegada_1895_LUIGI_FAEDO_Lancamento_149.jpg" alt="Certificado Luigi Faedo" />
+            <span class="photo-year-badge">Lançamento 149</span>
+          </div>
+          <div class="photo-body">
+            <div>
+              <span class="card-badge badge-green">3. Filho Italiano (10 anos)</span>
+              <h4>LUIGI FAEDO (Luiz Antônio Faedo)</h4>
+              <p class="photo-caption">
+                <strong>Certificado Nr.:</strong> 00075357<br />
+                <strong>Chegada:</strong> 20/10/1895 (Navio "Satellite")<br />
+                <strong>Filiação:</strong> Giuseppe Faedo e Rosa Faedo<br />
+                <strong>Destino:</strong> Alfredo Chaves / RS (Veranópolis)<br />
+                <strong>Registro AHRS:</strong> Códice 200, Folha 24, Lanç. Nr. 149
+              </p>
+            </div>
+            <div class="photo-actions">
+              <button class="btn btn-primary" onclick="openLightbox('doc-03')">🔍 Ler Documento</button>
+              <a class="btn btn-outline" href="documentos_cidadania/03_Certificado_Chegada_1895_LUIGI_FAEDO_Lancamento_149.jpg" download>⬇️ Baixar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tabela Comparativa Oficial -->
+      <div class="card" style="margin-bottom: 2rem;">
+        <h3 style="color: var(--italy-red-dark); margin-bottom: 0.5rem;">📊 Quadro Sinótico Oficial para Busca Cartorária e Consular</h3>
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Informação Chave</th>
+                <th>Dados Oficiais Comprovados no Acervo</th>
+                <th>Onde Solicitar a Certidão Oficial</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Comune de Origem na Itália</strong></td>
+                <td><strong>Monte Faedo (Frazione Faedo)</strong>, pertencente ao <strong>Comune di Monte di Malo</strong>, Província de <strong>Vicenza (Vêneto)</strong></td>
+                <td>
+                  • <strong>Nascidos até Ago/1871 (Giuseppe e Rosa, ~1862):</strong> Parrocchia di San Bartolomeo in Faedo / Diocesi di Vicenza.<br />
+                  • <strong>Casamento e filhos nascidos após Set/1871 (Luigi, ~1885 e Giovanni/João):</strong> Ufficio Stato Civile del Comune di Monte di Malo (VI).
+                </td>
+              </tr>
+              <tr>
+                <td><strong>Filiação de Giuseppe Faedo</strong></td>
+                <td>Pai: <strong>Luigi Faedo</strong> (<em>Luizi Faedo</em>)<br />Mãe: <strong>Margarita Dalban</strong> (<em>Margarida Dalban</em>)</td>
+                <td>Consta no assento de batismo/casamento na Itália e nos registros de óbito no Brasil.</td>
+              </tr>
+              <tr>
+                <td><strong>Registro de Desembarque (20/10/1895)</strong></td>
+                <td><strong>Códice 200, Folha 24, Lançamentos Nr. 146, 147, (148) e 149</strong> — Entrada via RJ, viagem ao RS no <strong>Navio "Satellite"</strong> rumo a Alfredo Chaves.</td>
+                <td><strong>Arquivo Histórico do Rio Grande do Sul (AHRS)</strong> — Porto Alegre/RS (solicitar certidão da Folha 24 inteira do Códice 200).</td>
+              </tr>
+              <tr>
+                <td><strong>Cartórios no Rio Grande do Sul</strong></td>
+                <td>Residência da família entre 1895 e 1945: <strong>Veranópolis (Alfredo Chaves), Nova Bassano, Bento Gonçalves, Marau, Água Santa e Passo Fundo</strong>.</td>
+                <td>Registro Civil de Veranópolis, Nova Bassano, Marau (casamento de João Faedo e Erina Ferlim), Água Santa e Passo Fundo.</td>
+              </tr>
+              <tr>
+                <td><strong>Cartórios no Paraná</strong></td>
+                <td>Pioneirismo a partir de 1943/1945: <strong>Clevelândia, Francisco Beltrão (Vila Marrecas / Comunidade de Divisor) e Enéas Marques</strong>.</td>
+                <td>1º e 2º Ofícios de Registro Civil de Francisco Beltrão (Óbito de Vitório em 16/06/1969; Óbito de Luiz Antônio em 03/06/1984).</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Gerador de Variações para CNN + Checklist Interativo -->
+      <div class="grid-2">
+        <div class="card">
+          <span class="card-badge badge-red">Certidão Negativa de Naturalização (CNN)</span>
+          <h3 style="margin-bottom: 0.6rem;">Variações de Nomes para Emitir a CNN Online</h3>
+          <p style="font-size: 0.92rem; color: var(--text-secondary); margin-bottom: 1rem;">
+            No portal <strong>e-Certidão do Ministério da Justiça</strong>, inclua todas as grafias abaixo para garantir que o consulado ou juiz italiano aceite a CNN sem exigências:
+          </p>
+          <div style="background: var(--bg-parchment); border: 1px solid var(--border-warm); padding: 1rem; border-radius: 8px; font-family: monospace; font-size: 0.86rem; margin-bottom: 1rem;">
+            <strong>Antepassado 1 (Nasc. ~1862):</strong><br />
+            • GIUSEPPE FAEDO / JOSEP FAEDO / JOSEPP FAEDO / GUIOSEPE FAEDO / JOSE FAEDO / JOSÉ FAEDO<br />
+            • Pai: Luigi Faedo / Luizi Faedo / Luiz Faedo<br />
+            • Mãe: Margarita Dalban / Margarida Dalban<br /><br />
+            <strong>Antepassado 2 (se do ramo de Luiz Antônio, Nasc. ~1885):</strong><br />
+            • LUIGI FAEDO / LUIGI ANTONIO FAEDO / LUIZ ANTONIO FAEDO / LUIZ ANTÔNIO FAEDO / LUIS ANTONIO FAEDO
+          </div>
+          <button id="copy-cnn-btn" class="btn btn-primary" onclick="copyCnnNames()">📋 Copiar Todas as Variações para a CNN</button>
+        </div>
+
+        <div class="card">
+          <span class="card-badge badge-green">Passo a Passo para a Juh</span>
+          <h3 style="margin-bottom: 0.6rem;">Checklist do Processo de Cidadania</h3>
+          <label class="checklist-item">
+            <input type="checkbox" checked />
+            <span><strong>1. Identificar o Dante Causa e Registro de Chegada:</strong> Concluído! Giuseppe Faedo (~1862, Monte Faedo/Vicenza) e chegada em 20/10/1895 (AHRS Códice 200, Folha 24).</span>
+          </label>
+          <label class="checklist-item">
+            <input type="checkbox" />
+            <span><strong>2. Montar a Linha Reta da Juh:</strong> Confirmar qual dos filhos de Giuseppe (Luiz Antônio, João "Joanim" ou Vitório) é o ascendente direto do pai da Juh.</span>
+          </label>
+          <label class="checklist-item">
+            <input type="checkbox" />
+            <span><strong>3. Reunir Certidões Brasileiras (Inteiro Teor):</strong> Emitir nascimento, casamento e óbito de cada geração (do pai da Juh até o filho do italiano).</span>
+          </label>
+          <label class="checklist-item">
+            <input type="checkbox" />
+            <span><strong>4. Solicitar Certidão na Itália (Monte di Malo / Vicenza):</strong> Pedir o batismo de Giuseppe (~1862) e casamento com Rosa Vicário (ou nascimento de Luigi ~1885).</span>
+          </label>
+          <label class="checklist-item">
+            <input type="checkbox" />
+            <span><strong>5. Emitir CNN + Tradução Juramentada + Apostila de Haia:</strong> Emitir CNN gratuita no MJ, traduzir certidões para o italiano e apostilar em cartório.</span>
+          </label>
+        </div>
+      </div>
+    </section>
+
+    <!-- ====================================================================
+         ABA 5: GALERIA DE FOTOS COMPLETA (45 REGISTROS ÚNICOS)
+         ==================================================================== -->
+    <section id="tab-galeria" class="tab-panel">
+      <div class="section-header">
+        <div>
+          <h2>📸 Acervo Fotográfico Completo &amp; Restaurado</h2>
+          <p id="gallery-count">Exibindo 45 registros históricos catalogados em alta resolução</p>
+        </div>
+      </div>
+
+      <div class="alert-box green" style="margin-bottom: 1.25rem;">
+        <h4>✨ Legendas Restauradas das Fotos Escaneadas (1950–1968)</h4>
+        <p>
+          As 14 fotografias históricas escaneadas em abril de 2013 (Passo Fundo, Capanema e Porto Lupion) que não tinham texto digitado no blog tiveram suas <strong>inscrições internas lidas e transcritas uma a uma</strong> para que você possa pesquisar por nome, cidade ou ano!
+        </p>
+      </div>
+
+      <div class="filter-bar">
+        <div class="filter-pills">
+          <button class="filter-pill active" data-cat="all" onclick="filterGalleryCategory('all')">Todas (45)</button>
+          <button class="filter-pill" data-cat="documentos" onclick="filterGalleryCategory('documentos')">📜 Documentos &amp; Brasão (6)</button>
+          <button class="filter-pill" data-cat="pioneiros" onclick="filterGalleryCategory('pioneiros')">🏛️ Patriarcas &amp; Pioneiros (7)</button>
+          <button class="filter-pill" data-cat="casas" onclick="filterGalleryCategory('casas')">🏡 Casas Históricas (4)</button>
+          <button class="filter-pill" data-cat="ramo_luiz_antonio" onclick="filterGalleryCategory('ramo_luiz_antonio')">🌳 Ramo Luiz Antônio &amp; Plínio (29)</button>
+          <button class="filter-pill" data-cat="ramo_joao_faedo" onclick="filterGalleryCategory('ramo_joao_faedo')">⚒️ Ramo João Faedo &amp; Erina (12)</button>
+        </div>
+        <input
+          type="search"
+          class="search-input"
+          placeholder="🔎 Buscar pessoa, cidade ou ano (ex: Plínio, 1954, Irineu)..."
+          oninput="onGallerySearch(this.value)"
+        />
+      </div>
+
+      <div id="gallery-grid" class="photo-grid"></div>
+    </section>
+
+    <!-- ====================================================================
+         ABA 6: ARQUIVO ORIGINAL DO BLOG & MURAL DA FAMÍLIA
+         ==================================================================== -->
+    <section id="tab-arquivo" class="tab-panel">
+      <div class="section-header">
+        <div>
+          <h2>📚 Arquivo Integral do Blog Original (2012–2013) &amp; Mural da Família</h2>
+          <p>Navegue pelas 7 páginas e 11 postagens originais exatamente como foram publicadas, com todas as imagens carregando localmente.</p>
+        </div>
+      </div>
+
+      <div class="archive-layout" style="margin-bottom: 3rem;">
+        <aside class="archive-sidebar" id="archive-list"></aside>
+        <div class="archive-reader" id="archive-viewer"></div>
+      </div>
+
+      <div class="section-header">
+        <div>
+          <h2>💬 Mural de Depoimentos e Memórias da Família (2012–2025)</h2>
+          <p>Todos os 19 comentários autênticos deixados por familiares e pesquisadores ao longo de 13 anos (higienizados e livres de spam).</p>
+        </div>
+      </div>
+
+      <div id="comments-wall" class="grid-2"></div>
+    </section>
+
+  </main>
+
+  <!-- Lightbox Modal para Zoom em Alta Resolução -->
+  <div id="lightbox-modal" class="lightbox" onclick="if(event.target === this) closeLightbox()">
+    <button class="lightbox-close" onclick="closeLightbox()" title="Fechar (Esc)">✕</button>
+    <div class="lightbox-content">
+      <div class="lightbox-img-box">
+        <img id="lb-img" src="" alt="" />
+      </div>
+      <div class="lightbox-info">
+        <div style="max-width: 760px;">
+          <h3 id="lb-title" style="font-size: 1.25rem; color: #F3D27A; margin-bottom: 0.25rem;"></h3>
+          <div id="lb-meta" style="font-size: 0.83rem; color: #A9D6C2; margin-bottom: 0.45rem;"></div>
+          <p id="lb-caption" style="font-size: 0.93rem; color: rgba(255,255,255,0.9);"></p>
+        </div>
+        <div style="display:flex; gap:0.6rem; align-items:center;">
+          <a id="lb-download" href="" download class="btn btn-green">⬇️ Baixar Alta Resolução</a>
+          <button class="btn btn-outline" onclick="closeLightbox()">Fechar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Rodapé -->
+  <footer class="site-footer">
+    <p style="font-family: 'Georgia', serif; font-size: 1.15rem; color: #F3D27A; margin-bottom: 0.4rem;">
+      Portal &amp; Memorial da Família Faedo — Eternizando Nossas Raízes (1862 – Presente)
+    </p>
+    <p>
+      Acervo original compilado por <strong>Leandro de Souza Faedo</strong>, com contribuições de <strong>Gerson Luiz Faedo, Ruben Faedo, Sirlei Faedo e familiares</strong>.<br />
+      Restaurado, catalogado em alta resolução e estruturado para o processo de Cidadania Italiana da família.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
