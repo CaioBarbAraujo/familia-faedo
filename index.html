@@ -3,11 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
+  <meta name="googlebot" content="noindex, nofollow" />
   <title>Portal & Memorial da Família Faedo — Da Itália ao Brasil (1862–Presente)</title>
   <meta name="description" content="Acervo histórico, árvore genealógica, fotografias restauradas e dossiê de cidadania italiana da Família Faedo — de Monte Faedo (Vicenza, Itália) ao Rio Grande do Sul e Paraná." />
   <link rel="stylesheet" href="style.css" />
 </head>
-<body>
+<body class="locked">
 
   <!-- Faixa Tricolor Italiana -->
   <div class="tricolor-bar">
@@ -15,6 +17,36 @@
     <div class="white"></div>
     <div class="red"></div>
   </div>
+
+  <!-- Tela de Acesso Restrito por Senha da Família -->
+  <section id="family-lock-screen" class="family-lock-screen">
+    <div class="lock-card">
+      <img
+        src="documentos_cidadania/04_Brasao_Historico_Familia_Faedo_Italia.jpg"
+        alt="Brasão da Família Faedo"
+        class="lock-crest"
+      />
+      <span class="card-badge badge-gold">🔒 Acervo Privado da Família</span>
+      <h2>Portal &amp; Memorial Família Faedo</h2>
+      <p>Este acervo histórico e genealógico é de acesso exclusivo dos familiares. Digite a senha da família para entrar:</p>
+      <form class="lock-input-group" onsubmit="handleUnlockSubmit(event)">
+        <input
+          type="password"
+          id="family-password-input"
+          class="lock-input"
+          placeholder="••••••••••"
+          autocomplete="current-password"
+          required
+        />
+        <button type="submit" class="btn btn-primary" style="padding: 0.8rem; font-size: 0.96rem;">
+          🔓 Acessar Portal da Família
+        </button>
+      </form>
+      <div id="lock-error-msg" class="lock-error">
+        ❌ Senha incorreta. Solicite a senha de acesso aos familiares.
+      </div>
+    </div>
+  </section>
 
   <!-- Cabeçalho Principal -->
   <header class="site-header">
@@ -66,6 +98,9 @@
         <button class="nav-btn" data-tab="galeria" onclick="switchTab('galeria')">📸 Galeria de Fotos (45)</button>
         <button class="nav-btn" data-tab="arquivo" onclick="switchTab('arquivo')">📚 Blog Original &amp; Mural</button>
       </div>
+      <button class="btn btn-outline" onclick="lockPortal()" title="Bloquear acesso novamente com senha" style="white-space: nowrap; font-size: 0.8rem; padding: 0.4rem 0.75rem;">
+        🔒 Bloquear
+      </button>
     </div>
   </nav>
 

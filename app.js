@@ -1131,3 +1131,73 @@ document.addEventListener('DOMContentLoaded', () => {
     if (e.key === 'Escape') closeLightbox();
   });
 });
+
+
+// ============================================================================
+// CONTROLE DE ACESSO PRIVADO DA FAMÍLIA FAEDO (SENHA)
+// ============================================================================
+const FAMILY_ACCESS_KEY = 'faedo_portal_auth_v1';
+const EXPECTED_TOKEN = 'ZmFlZG86MzI0NTYxMzI0MQ==';
+
+function verifyFamilyPassword(inputVal) {
+  try {
+    return btoa('faedo:' + String(inputVal).trim()) === EXPECTED_TOKEN;
+  } catch (e) {
+    return false;
+  }
+}
+
+function unlockPortal() {
+  document.body.classList.remove('locked');
+  try {
+    localStorage.setItem(FAMILY_ACCESS_KEY, EXPECTED_TOKEN);
+  } catch (e) {}
+}
+
+function lockPortal() {
+  try {
+    localStorage.removeItem(FAMILY_ACCESS_KEY);
+  } catch (e) {}
+  const inp = document.getElementById('family-password-input');
+  if (inp) inp.value = '';
+  const err = document.getElementById('lock-error-msg');
+  if (err) err.classList.remove('visible');
+  document.body.classList.add('locked');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function handleUnlockSubmit(event) {
+  event.preventDefault();
+  const inp = document.getElementById('family-password-input');
+  const err = document.getElementById('lock-error-msg');
+  const val = inp ? inp.value : '';
+
+  if (verifyFamilyPassword(val)) {
+    if (err) err.classList.remove('visible');
+    unlockPortal();
+  } else {
+    if (err) err.classList.add('visible');
+    if (inp) {
+      inp.value = '';
+      inp.focus();
+    }
+  }
+}
+
+(function initFamilyAuth() {
+  try {
+    const params = new URLSearchParams(window.location.search);
+    const urlPass = params.get('senha') || params.get('acesso');
+    if (urlPass && verifyFamilyPassword(urlPass)) {
+      unlockPortal();
+      if (window.history && window.history.replaceState) {
+        const cleanUrl = window.location.pathname + window.location.hash;
+        window.history.replaceState({}, document.title, cleanUrl);
+      }
+      return;
+    }
+    if (localStorage.getItem(FAMILY_ACCESS_KEY) === EXPECTED_TOKEN) {
+      unlockPortal();
+    }
+  } catch (e) {}
+})();
