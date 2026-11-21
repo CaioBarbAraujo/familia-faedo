@@ -1,0 +1,503 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-7684661181787056048"
+    },
+    "updated": {
+      "$t": "2026-09-07T09:02:02.208-07:00"
+    },
+    "title": {
+      "type": "text",
+      "$t": "Família Faedo"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": ""
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://familiafaedo.blogspot.com/feeds/pages/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default?alt=json&max-results=500"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://familiafaedo.blogspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Anonymous"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/06399915061930807723"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "16",
+          "height": "16",
+          "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "7"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "500"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.page-8408800626906498856"
+        },
+        "published": {
+          "$t": "2013-04-16T19:18:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2013-04-16T19:18:53.805-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Fotos Da  Família  Faedo"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-nTyfv8dcEaWesSQ0wUTZ5Puud60sqRv3YKFI77X8jaUz7gwyOazmxi7EXaPn2p4mqiaVqTxTzrKgbOKZM5ucNTX0wQxtrfoIGIllqqr4eee6BEbH8oZd2BtwenNmZ99UrJBW0G1RLSQ/s1600/Erina+Ferlim++Joao+Faedo.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-nTyfv8dcEaWesSQ0wUTZ5Puud60sqRv3YKFI77X8jaUz7gwyOazmxi7EXaPn2p4mqiaVqTxTzrKgbOKZM5ucNTX0wQxtrfoIGIllqqr4eee6BEbH8oZd2BtwenNmZ99UrJBW0G1RLSQ/s1600/Erina+Ferlim++Joao+Faedo.jpg\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\nErina Ferlin &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; João&nbsp;&nbsp;Faedo</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><br /></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>filhos&nbsp;</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"MsoListParagraphCxSpFirst\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">1.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> IRINEU FERLIM FAEDO<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">2.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> AFONSSO FAEDO<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">3.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> JOSE FAEDO<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">4.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> ADOLFO FAEDO<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">5.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> GERMANO FAEDO<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">6.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> ANGELO ALBERTO FAEDO\n(ANGELIM)<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">7.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> BENITO FAEDO<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">8.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> EXPEDITO FAEDO<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">9.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> LUIZ&nbsp; FAEDO<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">10.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> HUMBERTO GENTIL&nbsp; FAEDO<o:p></o:p></span></div>\n<div class=\"MsoListParagraphCxSpLast\" style=\"margin-left: 67.65pt; mso-add-space: auto; mso-list: l0 level1 lfo1; text-indent: -18.0pt;\">\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">11.</span><span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"> MARIA&nbsp; FAEDO<o:p></o:p></span></div>\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12 .HELENA&nbsp;&nbsp;\nFAEDO&nbsp;</span><br />\n<span style=\"font-family: 'Lucida Calligraphy'; font-size: 16pt; line-height: 115%;\"><br /></span>\n<div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmdZO8os5BbsiuEIhqoLZD2d9ddIgXfDCfTEKN-86sJ5KRUr9uiDWLcDp5lBNuRgp2OYrzkG1mtKwSTJMJr0Hr51AXHqJEYSP8x7pQq1StAOPRPdifi6eDKjH92Nr-hmzbjM3HezyLmXc/s1600/snapshot-0273.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmdZO8os5BbsiuEIhqoLZD2d9ddIgXfDCfTEKN-86sJ5KRUr9uiDWLcDp5lBNuRgp2OYrzkG1mtKwSTJMJr0Hr51AXHqJEYSP8x7pQq1StAOPRPdifi6eDKjH92Nr-hmzbjM3HezyLmXc/s640/snapshot-0273.jpg\" width=\"570\" /></a></div>\n&nbsp;<span style=\"font-size: large;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>Ao lado &nbsp;direito da foto Luiz&nbsp;Antonio&nbsp; Faedo &nbsp;e ao seu&nbsp;lado o&nbsp;</b></span><span style=\"font-size: large;\"><b>&nbsp;filho &nbsp; Benito Rômulo &nbsp;Faedo</b></span><br />\n<b style=\"font-size: x-large;\"><br /></b>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4WtTWcdREu8iVnfdRj3OzqVOas5Lp6zQ6GAOjdfoTq8hbO7GG9CyOvMiZ5m16RSqHXHEfBSnO0KjT07KIHrkVAsy2VLQ2wphM1kcbf4jCcq69ju9b2_3bnk7218YMRf2peBcHYtEKc0/s1600/snapshot-037.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4WtTWcdREu8iVnfdRj3OzqVOas5Lp6zQ6GAOjdfoTq8hbO7GG9CyOvMiZ5m16RSqHXHEfBSnO0KjT07KIHrkVAsy2VLQ2wphM1kcbf4jCcq69ju9b2_3bnk7218YMRf2peBcHYtEKc0/s640/snapshot-037.jpg\" width=\"506\" /></a></div>\n<span style=\"font-family: 'Lucida Calligraphy';\"><span style=\"font-size: 21px; line-height: 24px;\"><br /></span></span>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: x-large;\"><b>Luiz Antonio Faedo &nbsp;aos 25 anos de idade</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: x-large;\"><br /></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: x-large;\"><br /></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: x-large;\">PRIMEIRAS &nbsp;GERAÇÕES DA&nbsp;FAMÍLIA&nbsp;FAEDO&nbsp; NO&nbsp;BRASIL</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm0ymrUxpaTT0nvQi_AJGXTjQWhmagNZW_fSFru3tH83ppu2VtVg1dAx73JydSXpM6NTnejc7eGf0R0HFTz-C_F701O-nsGZovCwP04ZWsdFApmuhjP7xO2HRDS0vIkkrnHvmKK1Pme3Y/s1600/Familia+Faedo.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"268\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm0ymrUxpaTT0nvQi_AJGXTjQWhmagNZW_fSFru3tH83ppu2VtVg1dAx73JydSXpM6NTnejc7eGf0R0HFTz-C_F701O-nsGZovCwP04ZWsdFApmuhjP7xO2HRDS0vIkkrnHvmKK1Pme3Y/s400/Familia+Faedo.jpg\" width=\"400\" /></a></div>\n<b><span style=\"font-size: large;\">Podemos ver  nesta  foto  a   Família  Faedo no  Brasil Começando  do canto  esquerdo  da foto  Luis Antonio Faedo e  logo após veja  na foto  os  filhos  de João Faedo e  Erina Ferlim \n Irineu Faedo, Afonso Faedo, Jose Faedo, Adolfo Faedo,Germano Faedo, Ângelo Alberto Faedo ,Expedito Faedo,Luis Faedo ,Humberto  Gentil Faedo,Maria Faedo,Helena Faedo ,(falta na foto  um  dos irmãos o SR. Benito Faedo)\n\n\n\n\n</span></b><br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc7jerAm5um2bMjsZ6VzHNPPJuNMnb52tYAthwjZaJFC1LS-3f0vuy4FLi3T3PFXv_BeXWpu1KmCTzGmk5XmDePhSRp3JvaXbDzyqU1CwRQUqBwedF_0phUfN2bgSs0NLXx3fVsoKp__I/s1600/Familia+Faedo+%25284%2529.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"286\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc7jerAm5um2bMjsZ6VzHNPPJuNMnb52tYAthwjZaJFC1LS-3f0vuy4FLi3T3PFXv_BeXWpu1KmCTzGmk5XmDePhSRp3JvaXbDzyqU1CwRQUqBwedF_0phUfN2bgSs0NLXx3fVsoKp__I/s400/Familia+Faedo+%25284%2529.jpg\" width=\"400\" /></a></div>\n<b><span style=\"font-size: large;\">João Faedo  ano  1964\n\n\n\n\nBenito e  esposa ,tio Luiz e tia  cila casamento no ano de 1964 )tio  Espedito e esposa ,tio Jose e tia  maria ,tio Adolfo e tia Lurdes  , tia helena  joão  Faedo sea marica , Ângelo (angelim)  esta faltando  o tio  afonso , e tio  Irineu e tia maria !\n\n\n\n</span></b><br />\n<br />\n<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzqpUJgZTAW6vQJ3lwe0mYTbxTHO314O5rQuuw_SyEOEjDqtEc_32eXHwCzN6WVGC2NxwZz-4IaWGqXK6YUkwewwdZYtbzsbNOoUrciLYvV2wWuZQ6emXLepidt3IDikdntollwwR75kg/s1600/Familia+Faedo+%25283%2529.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"428\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzqpUJgZTAW6vQJ3lwe0mYTbxTHO314O5rQuuw_SyEOEjDqtEc_32eXHwCzN6WVGC2NxwZz-4IaWGqXK6YUkwewwdZYtbzsbNOoUrciLYvV2wWuZQ6emXLepidt3IDikdntollwwR75kg/s640/Familia+Faedo+%25283%2529.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYoEunju5-PN-SUT6GoIWVf-z53ZVGAYIWalY07dXYv61dAXuHKXoZXXN2bxtvFZG-njaWbAbGf38iZEdoIQN35JICaFy1Y2zow5YDGPOQxEbsRzY2Y-jBPGYm63p9J9hFkdfLK4Rj1ss/s1600/Documento-Fotografia-1++casamento.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYoEunju5-PN-SUT6GoIWVf-z53ZVGAYIWalY07dXYv61dAXuHKXoZXXN2bxtvFZG-njaWbAbGf38iZEdoIQN35JICaFy1Y2zow5YDGPOQxEbsRzY2Y-jBPGYm63p9J9hFkdfLK4Rj1ss/s640/Documento-Fotografia-1++casamento.jpg\" width=\"386\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><br /></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>Casamento &nbsp;de &nbsp;Ângelo&nbsp;A &nbsp;Faedo &nbsp;e &nbsp;Armeri &nbsp;Nunes&nbsp;</b></span></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXCx5z9Tuo1Fn10AFyMObaD1puyLmluvw4jPJGLXQEaP5vILzQpqe4BdaUJan-ZFMt_xkn3XvamnmLLDaq9d8uo3sAQFGxZhvsRejbHE1E2Ir-O18MoregLnBJlu4CNfUHn180lyQ9KPI/s1600/casmento+de++angelo+e++almeri.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXCx5z9Tuo1Fn10AFyMObaD1puyLmluvw4jPJGLXQEaP5vILzQpqe4BdaUJan-ZFMt_xkn3XvamnmLLDaq9d8uo3sAQFGxZhvsRejbHE1E2Ir-O18MoregLnBJlu4CNfUHn180lyQ9KPI/s640/casmento+de++angelo+e++almeri.jpg\" width=\"378\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>Casamento &nbsp;de &nbsp;Ângelo A &nbsp;Faedo &nbsp;e &nbsp;Armeri &nbsp;Nunes&nbsp;</b></span></div>\n<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8UAI3R9pwUYRWbcwbCysZCfRXSJNCrBfdNzkaKjZo9GmfRhASHLyeL8gywhVpmQnYYHg0Jjxl1vdG7PG9lA7DsLD7n9MQRyy-dIuUkacxtrRUd3eCKGiW1Epl-wICq54EOKSi3r3KOBw/s1600/Documento-Fotografia-1+12.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"384\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8UAI3R9pwUYRWbcwbCysZCfRXSJNCrBfdNzkaKjZo9GmfRhASHLyeL8gywhVpmQnYYHg0Jjxl1vdG7PG9lA7DsLD7n9MQRyy-dIuUkacxtrRUd3eCKGiW1Epl-wICq54EOKSi3r3KOBw/s640/Documento-Fotografia-1+12.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>&nbsp;Casamento &nbsp;de &nbsp; &nbsp;Severino &nbsp;e Eracy</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgpPdKJy9xZvV7wbPW6xShZ9D7aarhGJijFDWd7Ca0ml-3jZWCI8uUNXDDCvFTHgP-9hpphyphenhyphenqDQucfjk24dAxLVdOxLK4OmOq2H-yvWTVPSqLYm2ngksgHmknjTs_apw2Pc-WpI9dftU/s1600/snapshot-020.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgpPdKJy9xZvV7wbPW6xShZ9D7aarhGJijFDWd7Ca0ml-3jZWCI8uUNXDDCvFTHgP-9hpphyphenhyphenqDQucfjk24dAxLVdOxLK4OmOq2H-yvWTVPSqLYm2ngksgHmknjTs_apw2Pc-WpI9dftU/s640/snapshot-020.jpg\" width=\"431\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: x-large;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: x-large;\">Helena Faedo &nbsp;e &nbsp;Maria &nbsp;Faedo&nbsp;</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b style=\"font-size: xx-large;\">Filhas de João&nbsp;Faedo&nbsp;e&nbsp;Erina&nbsp;Ferlin</b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b style=\"font-size: xx-large;\"><br /></b></div>\n<div class=\"\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: x-large;\"><b><br /></b></span></div>\n<div class=\"\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: x-large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7omW3ITWWwY5sffy1rcZSicCQx19DAhy_jEiGuxk-TVpBiICMQkJHiz0WfEpU6SsSwhTyDq0joBiS2oCPM00bs-GgSScOgpaGII15UAVaUkU_QjLJDnIpWyQ81uyFKVDJ169qs3eZgfk/s1600/DSC01835.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7omW3ITWWwY5sffy1rcZSicCQx19DAhy_jEiGuxk-TVpBiICMQkJHiz0WfEpU6SsSwhTyDq0joBiS2oCPM00bs-GgSScOgpaGII15UAVaUkU_QjLJDnIpWyQ81uyFKVDJ169qs3eZgfk/s640/DSC01835.JPG\" width=\"480\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\">Irineu Faedo e &nbsp;Maria Conceição Faedo</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\"><br /></span></b></div>\n<div>\n<br /></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28QDV9d8jgxWdrb9s05nAwVLgOFDD8GnHzT79mV-REcvGkyEWDvfmm1nngKp8gcQSZESfN0DE4a84chSRMYGZwa7uY5EoDZ9PyUHbhxobLlqR53ztzuPD-pMWV5wGpNRKJHwQbif53QE/s1600/523984_216218075147659_773724487_n.jpg\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" height=\"480\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28QDV9d8jgxWdrb9s05nAwVLgOFDD8GnHzT79mV-REcvGkyEWDvfmm1nngKp8gcQSZESfN0DE4a84chSRMYGZwa7uY5EoDZ9PyUHbhxobLlqR53ztzuPD-pMWV5wGpNRKJHwQbif53QE/s640/523984_216218075147659_773724487_n.jpg\" width=\"640\" /></a><br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>Casamento &nbsp;de Cesar Joao Faedo e Sirlei M. da Silva Faedo</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROt_D-62_R_dCkuR-5KMF9qeMpVB40KOPJnvBkDGkAFDNgi7he_e6SMFKbEEiV5WNrn6rby6Ddy5XGe0oj9UfVlXiYc6xrH8-dk34svb-IdjQRrT_-rlz9qvjiy7CW9WLEwkgP20mKLk/s1600/FOTO+04.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"467\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROt_D-62_R_dCkuR-5KMF9qeMpVB40KOPJnvBkDGkAFDNgi7he_e6SMFKbEEiV5WNrn6rby6Ddy5XGe0oj9UfVlXiYc6xrH8-dk34svb-IdjQRrT_-rlz9qvjiy7CW9WLEwkgP20mKLk/s640/FOTO+04.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>Os filhos do Sr. Luiz Antonio Faedo com Leontina Assis Cavalheiro Faedo que está sentada, de pé da esquerda para a direita: Benito, Adão, Adroaldo, Plinio, Rosalino e João.</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0ba00W391GF7iBgGpBAKOORCNpM942MLe1KZEqU7H3sDxbGtsIo2Tfw-Zb-QicvR4d8sHSELErCZ5F7U1wQUjDQL5RXtX_Jd2syKVp9rkmYLuxBTnCNkspwvsbnyhxziqcspci3QoyEw/s1600/FOTO+05.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"424\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0ba00W391GF7iBgGpBAKOORCNpM942MLe1KZEqU7H3sDxbGtsIo2Tfw-Zb-QicvR4d8sHSELErCZ5F7U1wQUjDQL5RXtX_Jd2syKVp9rkmYLuxBTnCNkspwvsbnyhxziqcspci3QoyEw/s640/FOTO+05.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>Da&nbsp;esquerda para direita: Rosa (filha), Leonor (1a esposa de Adroaldo), Marlene (esposa de João), D. Leontina, Maria (esposa de Rosalino) e Lourdes (esposa de Benito).</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG8Mb9_UiTM-Q5uI2TI-JBSxHI_wOC7KWFeOplLHRYC4v9hZ8mPpPszd0kdxvewdecjrHFF9aV-oRs-B4Ai0vqDboaaDJpYKzNBC-nzOtqovdY22m_Vek9IR0udLoeIlM70pZ4BiA9r60/s1600/FOTO+03.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"440\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG8Mb9_UiTM-Q5uI2TI-JBSxHI_wOC7KWFeOplLHRYC4v9hZ8mPpPszd0kdxvewdecjrHFF9aV-oRs-B4Ai0vqDboaaDJpYKzNBC-nzOtqovdY22m_Vek9IR0udLoeIlM70pZ4BiA9r60/s640/FOTO+03.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>Sr. Luiz Antonio Faedo e seu filho Rosalino Tacito Faedo, no casamento de Luiz Faedo, filho de Adão e Ema Faedo.</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><br /></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><br /></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLRdsq5zPW3TleUT0jhdXCLZoXzZJgfJ10PtZzCZ2FN8XGnuvuKm4OdunG6QbSik-lbGUFckBGTJX9AS74Hlq7se0hAqQ2bjvh2IChn5l5P1btMmABV8Ac4cnM5kLe24YBYhMM3RUrGlw/s1600/FOTO+07.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"408\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLRdsq5zPW3TleUT0jhdXCLZoXzZJgfJ10PtZzCZ2FN8XGnuvuKm4OdunG6QbSik-lbGUFckBGTJX9AS74Hlq7se0hAqQ2bjvh2IChn5l5P1btMmABV8Ac4cnM5kLe24YBYhMM3RUrGlw/s640/FOTO+07.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>Os irmãos Rosalino, Adão, João e Plinio no casamento de Rosana Shoala, filha de Rosa Faedo Teixeira</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpIU2KeDoo8cKiPt3WwA9Rq-6Xwp3HX9ficjBan1Zw0sjqQDi4zieCnRTvqWEgCQ3iTF2-MoHpc64exYhHXFkAjaEWnuUvA83PR2pOp0Z8-w_pP38EovGWgznTS6X77vKsnOVp8WUgN8/s1600/FOTO+06.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"424\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpIU2KeDoo8cKiPt3WwA9Rq-6Xwp3HX9ficjBan1Zw0sjqQDi4zieCnRTvqWEgCQ3iTF2-MoHpc64exYhHXFkAjaEWnuUvA83PR2pOp0Z8-w_pP38EovGWgznTS6X77vKsnOVp8WUgN8/s640/FOTO+06.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\">&nbsp;Os irmãos em visita ao irmão Adroaldo que morava em Rondonia, da esquerda para a direita Plinio, João, Adroaldo, Rosalino e Adão, a menina é filha da 2ª esposa do Sr. Adroaldo.</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_hSts-KMFO7XIR4jcdjItLB4Xlou8Cv7HB72zfLkpni96JAIXQABBhngsjdJjUvv_pVgO5ss8xjZU0vsw58R3D4ZXPqE1z-9FofSkwqCUSG9YkyFlWzkXV6VMNKPESd-hUHTmLoWzBhY/s1600/FOTO+02.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_hSts-KMFO7XIR4jcdjItLB4Xlou8Cv7HB72zfLkpni96JAIXQABBhngsjdJjUvv_pVgO5ss8xjZU0vsw58R3D4ZXPqE1z-9FofSkwqCUSG9YkyFlWzkXV6VMNKPESd-hUHTmLoWzBhY/s640/FOTO+02.jpg\" width=\"624\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\">&nbsp;Festa de fim de ano na última morada do Sr. Luiz Antonio Faedo, ao fundo de vermelho Marta Apa Faedo, no colo do Sr. Luiz A &nbsp;Faedo ; Marco Antonio Faedo, ao lado Márcia Rosely Faedo ambos filhos do Sr. Rosalino Tacito Faedo e com camisa xadrez Marcelo Faedo, filho de João Flaviano Faedo.</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9lsBW39ZMRlTXdyU5kXZOscuSIfg9lG8eWz5PAL-AiyrqO6Gu3JXgnRvtUPjab8ejkupShC8Ix-Oe6WyYC__Ko86OMXvUzH2MiYwVLekq4z9slFrHJD0kDR5xPVhNLcKmk4AZyOslKEs/s1600/FOTO+08.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"416\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9lsBW39ZMRlTXdyU5kXZOscuSIfg9lG8eWz5PAL-AiyrqO6Gu3JXgnRvtUPjab8ejkupShC8Ix-Oe6WyYC__Ko86OMXvUzH2MiYwVLekq4z9slFrHJD0kDR5xPVhNLcKmk4AZyOslKEs/s640/FOTO+08.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n&nbsp;<b><span style=\"font-size: large;\">Aniversário de 66 anos de Luiz Antonio Faedo, ao seu lado de vestido estampado sua esposa D. Maria Conceição&nbsp;Faedo, do outro lado de azul sua filha Rosa Teixeira, ao fundo de óculos sua nora Sra. Lurdes, esposa do filho Benito.</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDqeL_rerqLdSlS3ie-oaho8TPzjJ9FR_jiyjKMSoTRGbCgE1Xn0oWfQecfMhP0LS1e5_0gpxqUYR0lhH1utwJd3djnigfUke8ZAqXKpaiB6xM1ht9w9XBiNXf9p0Mtf3UAVh9VL78w1s/s1600/plinio+gerson.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDqeL_rerqLdSlS3ie-oaho8TPzjJ9FR_jiyjKMSoTRGbCgE1Xn0oWfQecfMhP0LS1e5_0gpxqUYR0lhH1utwJd3djnigfUke8ZAqXKpaiB6xM1ht9w9XBiNXf9p0Mtf3UAVh9VL78w1s/s640/plinio+gerson.jpg\" width=\"408\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>Plínio</b></span><b><span style=\"font-size: large;\">&nbsp;Luiz&nbsp;Faedo &nbsp;e &nbsp;seu &nbsp;filho &nbsp;Gerson Luiz &nbsp;Faedo&nbsp;</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\">( Plínio&nbsp;filho&nbsp; de &nbsp;Luiz Antonio Faedo e Leontina cavalheiro&nbsp;)&nbsp;</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn2Mp0GD0pxoy5LieFv1wQR7F8XI5MZ8nTPRI8RyEUErEtvL_QUuk7tB_cUunBL2LCnekfAJssam2vwsNEb2BL56lR2eaYS2pp2zKJAAPhVWdNWLH38yILDroNojor-9Y5o1bDXKEXV9I/s1600/Downloads3.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn2Mp0GD0pxoy5LieFv1wQR7F8XI5MZ8nTPRI8RyEUErEtvL_QUuk7tB_cUunBL2LCnekfAJssam2vwsNEb2BL56lR2eaYS2pp2zKJAAPhVWdNWLH38yILDroNojor-9Y5o1bDXKEXV9I/s640/Downloads3.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\">&nbsp;Festa de aniversário de Rosana Shoaila Teixeira, filha de Rosa Faedo Teixeira, que faz parte dos filhos do 2º Casamento do Sr Luiz Antonio Faedo, da esquerda para a direita estão: Sr.Odair Teixeira, Sra. Rosa Teixeira com Rosana no colo, D. Maria, Sr. Luiz Antonio Faedo, Sr. Rosalino T. Faedo e sua esposa Maria Agnoleto Faedo com Marta Apa Faedo no colo e no chão Márcia Rosely Faedo, Juca Faedo outro filho do 2º Casamento do Sr. Luiz Antonio Faedo, sua filha Krishna &nbsp;e sua esposa Sra Nedir.</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc1dbZv0JrIxgqy72RoXekbwa3q0zf5GgHy3MRk1bjTnQIHgdSW7Voy70kv_l0KonWqyde013aN-UEk16HI-8Kr9dV6gBSLoUKpZae3HUUEnAUe8vNmg_usurvbf6-lwE1NMzx6Hm4Kzs/s1600/img062.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"496\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc1dbZv0JrIxgqy72RoXekbwa3q0zf5GgHy3MRk1bjTnQIHgdSW7Voy70kv_l0KonWqyde013aN-UEk16HI-8Kr9dV6gBSLoUKpZae3HUUEnAUe8vNmg_usurvbf6-lwE1NMzx6Hm4Kzs/s640/img062.jpg\" width=\"640\" /></a></div>\n<br />\n<span style=\"font-family: Calibri, sans-serif; line-height: 115%;\"><b><span style=\"font-size: large;\">Luiz\nAntonio Faedo&nbsp; com os filhos\nBenito,Adão,Adroaldo,Plinio,Rosalino e João em uma festa no Tuna ( Francisco Beltrão)</span></b></span><br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGIXq5UKXl_TjXRtEdbiekRBGtbxiHjijLPh-EIzoudgEHD7uCGP1JPe_heVTj9tI10dFfRZa0-coHdRjNr_mvmmphQAuNGlekdAiUw6oJnOrp2308VZDV4WB8GxRAuJWbVbNIf31nns/s1600/img063.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"480\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGIXq5UKXl_TjXRtEdbiekRBGtbxiHjijLPh-EIzoudgEHD7uCGP1JPe_heVTj9tI10dFfRZa0-coHdRjNr_mvmmphQAuNGlekdAiUw6oJnOrp2308VZDV4WB8GxRAuJWbVbNIf31nns/s640/img063.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: large;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-family: Calibri, sans-serif; font-size: large;\"><b><span style=\"line-height: 115%;\">Foto &nbsp;tirada\nem 1968 na antiga casa do sr &nbsp;Luiz &nbsp;Antonio &nbsp;Faedo Benito&nbsp;</span><span style=\"line-height: 16px;\">Rômulo</span><span style=\"line-height: 115%;\">&nbsp;Faedo na ponta esquerda &nbsp;e os filhos do sr &nbsp;</span></b><span style=\"line-height: 26px;\"><b>Luiz &nbsp;Antonio &nbsp;Faedo&nbsp;</b></span></span><b style=\"font-family: Calibri, sans-serif; font-size: x-large;\"><span style=\"line-height: 115%;\">segundo\ncasamento com a dona Maria</span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b style=\"font-family: Calibri, sans-serif; font-size: x-large;\"><span style=\"line-height: 115%;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP0v9c50Ym2D2abBt_yF43z9ipEWDRrOCifBsSgQNn6GPVygdQh0Y8hzD7JIry3a2Xe5Y_-I9DmXD7ES4X2IXvSDz3ZZv8J0UR4q5SSH_WDHbCk4LvsjDuSZZCTbWXhlRbHTZ1yo5okds/s1600/SCAN_20130416_212450922.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"427\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP0v9c50Ym2D2abBt_yF43z9ipEWDRrOCifBsSgQNn6GPVygdQh0Y8hzD7JIry3a2Xe5Y_-I9DmXD7ES4X2IXvSDz3ZZv8J0UR4q5SSH_WDHbCk4LvsjDuSZZCTbWXhlRbHTZ1yo5okds/s640/SCAN_20130416_212450922.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8XbcXPq8K9-gX5X3eV7P3KPfvKGdwjglRy3YDuSVf8npzS3f8L4I-ZqdVSsFQ137AuSGIKmITuKXO2P_e6QBVAt5bApiRsC0T258mx5P3xwzAK9pUR1ptXm57cLoBOFwgal0ru6Aknbo/s1600/SCAN_20130416_212559203.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8XbcXPq8K9-gX5X3eV7P3KPfvKGdwjglRy3YDuSVf8npzS3f8L4I-ZqdVSsFQ137AuSGIKmITuKXO2P_e6QBVAt5bApiRsC0T258mx5P3xwzAK9pUR1ptXm57cLoBOFwgal0ru6Aknbo/s640/SCAN_20130416_212559203.jpg\" width=\"462\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7YV6aWzsvNtsK-bN47EPw3CZiAtsmVIdhY3FF94bJrra0RyVP2oeWU2fhyphenhyphenq8m_SBy94Xgazq_sHqun0e7C8QBdHMeFPqULq3BoAEMItnqbrn2KmZe0imGIACFrjKsBskn1Ubcli6rG1Y/s1600/SCAN_20130416_212704177.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"430\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7YV6aWzsvNtsK-bN47EPw3CZiAtsmVIdhY3FF94bJrra0RyVP2oeWU2fhyphenhyphenq8m_SBy94Xgazq_sHqun0e7C8QBdHMeFPqULq3BoAEMItnqbrn2KmZe0imGIACFrjKsBskn1Ubcli6rG1Y/s640/SCAN_20130416_212704177.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMOuzKiIXAAXLa-JvnkfuCHfZLX5uLzQE90fg2A07QLAbDgDtMRwSSnnpN2zhXYTDAQt8CxqwX57xGn09fOYDVOFdBMq78t5T0z63omiYq3XK7pmLjPMde5vVwaet6F5ivc4ocylo5_5s/s1600/SCAN_20130416_212756390.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"490\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMOuzKiIXAAXLa-JvnkfuCHfZLX5uLzQE90fg2A07QLAbDgDtMRwSSnnpN2zhXYTDAQt8CxqwX57xGn09fOYDVOFdBMq78t5T0z63omiYq3XK7pmLjPMde5vVwaet6F5ivc4ocylo5_5s/s640/SCAN_20130416_212756390.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnCFGpC-fNaDp8OYlyyrmBrkNdimsvWDt493XzSNPx5B_xMWYfu4cc02x4bP1pgHeV6to-A0CO6WTaTtuq3QCZ07ER3sMlgl7vNanIszpfMN3PItQuhlVN1geh7M5xmroBdOnhrrOtHs/s1600/SCAN_20130416_212842754.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"410\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnCFGpC-fNaDp8OYlyyrmBrkNdimsvWDt493XzSNPx5B_xMWYfu4cc02x4bP1pgHeV6to-A0CO6WTaTtuq3QCZ07ER3sMlgl7vNanIszpfMN3PItQuhlVN1geh7M5xmroBdOnhrrOtHs/s640/SCAN_20130416_212842754.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKtfBStg7BoLpMrKxqz3zmFnK7YzUVMez1u9N_O6V-TUnOs22ZcvIAOi56PR8sd9HnCL7XGemchU6ijXa-Eti3hjPfyLRNTgUBDn4_N6GTX2k8I7gN9iWgGdIGAJar8jJafRvnvuN63eU/s1600/SCAN_20130416_212926605.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"426\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKtfBStg7BoLpMrKxqz3zmFnK7YzUVMez1u9N_O6V-TUnOs22ZcvIAOi56PR8sd9HnCL7XGemchU6ijXa-Eti3hjPfyLRNTgUBDn4_N6GTX2k8I7gN9iWgGdIGAJar8jJafRvnvuN63eU/s640/SCAN_20130416_212926605.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQuqVsHeSZovt-OZJQ0uLyRJHAX2GD1LgZIaWuz5pdLu5C-HHjt-U9ksqx03cz-lPwdp5UlP9v76W8ax_qbsbpE9fs4c6CavMGWEL3bK0cOibjedFI2P32FjbIgUa33GnLYBMIwp-o368/s1600/SCAN_20130416_213021736.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"394\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQuqVsHeSZovt-OZJQ0uLyRJHAX2GD1LgZIaWuz5pdLu5C-HHjt-U9ksqx03cz-lPwdp5UlP9v76W8ax_qbsbpE9fs4c6CavMGWEL3bK0cOibjedFI2P32FjbIgUa33GnLYBMIwp-o368/s640/SCAN_20130416_213021736.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_tPtNUjq94TbxXxygVCaFOjRQQ-kCQ65OCHHXecAT9z2xxzu8ixKjZ1kSfyvkYx2nL3WtGQTYM61-S3sSirAAi5JVZSQLhXu4NAK8HS25k1eQGSM2SJsMwLNhx-51nDo8erzynhN16JU/s1600/SCAN_20130416_220221905.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_tPtNUjq94TbxXxygVCaFOjRQQ-kCQ65OCHHXecAT9z2xxzu8ixKjZ1kSfyvkYx2nL3WtGQTYM61-S3sSirAAi5JVZSQLhXu4NAK8HS25k1eQGSM2SJsMwLNhx-51nDo8erzynhN16JU/s640/SCAN_20130416_220221905.jpg\" width=\"410\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirGgXqWekFHi435zsLu-PuOxe2EjXS0Hl_ZX9vCos-32Wg60s34OE_MDpv_2qd7ZdeqI9Yhh7vUztc6nB50YaPk7UGMbRS1tH_R3XWiAxOZ1O8n0CQhjLLiq-sWO74GVoiSRNDeKXREwA/s1600/SCAN_20130416_220302559.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirGgXqWekFHi435zsLu-PuOxe2EjXS0Hl_ZX9vCos-32Wg60s34OE_MDpv_2qd7ZdeqI9Yhh7vUztc6nB50YaPk7UGMbRS1tH_R3XWiAxOZ1O8n0CQhjLLiq-sWO74GVoiSRNDeKXREwA/s640/SCAN_20130416_220302559.jpg\" width=\"422\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_IlsVv4N072zyOfd5dUvQrQsGTwOMvngzzng9ZSUVfnSOovT_lulXZnS7jb5h0vgtl9hkK435P6cK4Tb8ceEBfe5XR5vkDV2CqqPXFDsbH-Cb4vt8EIEoq79jmlU__E2hZpLjbZ8WDY/s1600/SCAN_20130416_220357985.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"410\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_IlsVv4N072zyOfd5dUvQrQsGTwOMvngzzng9ZSUVfnSOovT_lulXZnS7jb5h0vgtl9hkK435P6cK4Tb8ceEBfe5XR5vkDV2CqqPXFDsbH-Cb4vt8EIEoq79jmlU__E2hZpLjbZ8WDY/s640/SCAN_20130416_220357985.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg49qtsBlJ-B5DNJY5w2OeEbkWmA91_2sfnaQI3LV1PE-WPsf2p5jWAo1l84zb5rb2fxFNypA-m3AyI8NGR9Wtrap6W3Fs-jeTldHj2-XRXLeCUpNuaJX0i63Gh4nr2U9VKH8k724uiync/s1600/SCAN_20130416_220441447.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"404\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg49qtsBlJ-B5DNJY5w2OeEbkWmA91_2sfnaQI3LV1PE-WPsf2p5jWAo1l84zb5rb2fxFNypA-m3AyI8NGR9Wtrap6W3Fs-jeTldHj2-XRXLeCUpNuaJX0i63Gh4nr2U9VKH8k724uiync/s640/SCAN_20130416_220441447.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht8bvaf5kNiUfxmdkDupEMxyICPsYm9EMDet-B5_6dG94qqslZQwdABvy63KMAty91bHIVSzldzpfpq1hVrwu3hMkd9CR7OfiFF7hLVxIGgBL1bezPb4C2UJdNoMhFzcuzO-K6Bp_38GM/s1600/SCAN_20130416_220521758.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"410\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht8bvaf5kNiUfxmdkDupEMxyICPsYm9EMDet-B5_6dG94qqslZQwdABvy63KMAty91bHIVSzldzpfpq1hVrwu3hMkd9CR7OfiFF7hLVxIGgBL1bezPb4C2UJdNoMhFzcuzO-K6Bp_38GM/s640/SCAN_20130416_220521758.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZwu9Yy7m2nnFRAZpDxj8xQerwORQhyphenhyphenGQESnuM6PDHPI0QFs6I_mO44DVQng3q4ZPz-C_8ZA_cN6DM1DTUyvWHOFC-94wWKJWuAAxtc5N9hyphenhyphenmq9UfpvSsWNJNyYTksvSgkZue3hLTN6p4/s1600/SCAN_20130416_220602115.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"390\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZwu9Yy7m2nnFRAZpDxj8xQerwORQhyphenhyphenGQESnuM6PDHPI0QFs6I_mO44DVQng3q4ZPz-C_8ZA_cN6DM1DTUyvWHOFC-94wWKJWuAAxtc5N9hyphenhyphenmq9UfpvSsWNJNyYTksvSgkZue3hLTN6p4/s640/SCAN_20130416_220602115.jpg\" width=\"640\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk2hWefIHI5s3RkbKAGFWwa4EJObpjUNsZUSxPrt8hWh3Vtw3h1Q8nSa5K0bkm4eSiclAEZ3wfNmt9cfm8B_Kc54HTU9rRxhKpbhlMYo3tYRZbGVoW2KLTvY5GMdmKJNXEbWQoQLUxCEg/s1600/SCAN_20130416_220642550.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk2hWefIHI5s3RkbKAGFWwa4EJObpjUNsZUSxPrt8hWh3Vtw3h1Q8nSa5K0bkm4eSiclAEZ3wfNmt9cfm8B_Kc54HTU9rRxhKpbhlMYo3tYRZbGVoW2KLTvY5GMdmKJNXEbWQoQLUxCEg/s640/SCAN_20130416_220642550.jpg\" width=\"430\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b style=\"font-family: Calibri, sans-serif; font-size: x-large;\"><span style=\"line-height: 115%;\"><br /></span></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n</div>\n"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/8408800626906498856"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/8408800626906498856"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-da-familia-faedo.html",
+            "title": "Fotos Da  Família  Faedo"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/06399915061930807723"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-nTyfv8dcEaWesSQ0wUTZ5Puud60sqRv3YKFI77X8jaUz7gwyOazmxi7EXaPn2p4mqiaVqTxTzrKgbOKZM5ucNTX0wQxtrfoIGIllqqr4eee6BEbH8oZd2BtwenNmZ99UrJBW0G1RLSQ/s72-c/Erina+Ferlim++Joao+Faedo.jpg",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.page-2969630757681885569"
+        },
+        "published": {
+          "$t": "2012-05-05T18:41:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2012-05-05T18:41:44.474-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "PORTAL  FAMÍLIA  FAEDO"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<span style=\"font-size: x-large;\"><b>ENTRE &nbsp;NO PORTAL &nbsp;DA FAMÍLIA&nbsp;FAEDO</b></span><br />\n<div>\n<table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHSnevmKV4drR8hogCaYXYWOKXMsB5gZiZ9LG4_InE6ZWl-CVGJ2cvIulwwagTkbmH2qewysGYnBOUE-d0csPlp9v07oFpKePJnImz1J0O58loch32ayMax930Q-SYlx8jCB196HXieeE/s1600/Familia+Faedo.png\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"214\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHSnevmKV4drR8hogCaYXYWOKXMsB5gZiZ9LG4_InE6ZWl-CVGJ2cvIulwwagTkbmH2qewysGYnBOUE-d0csPlp9v07oFpKePJnImz1J0O58loch32ayMax930Q-SYlx8jCB196HXieeE/s320/Familia+Faedo.png\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><br /></td></tr>\n</tbody></table>\n<br />\n<br />\nAtravés&nbsp;do portal&nbsp;você&nbsp; pode ajudar&nbsp;a contar&nbsp;a nossa &nbsp;historia &nbsp; mande fotos antigas ou &nbsp;novas e conte a historia delas &nbsp;.<br />\n<br />\n<span style=\"color: blue;\"></span><br />\n<span style=\"color: blue;\"></span><br />\n<br />\n<br />\n<br />\n<br />\n<br />\n<br />\n<a class=\"l\" href=\"http://www.orkut.com/Community?cmm=1215261&amp;hl=pt-BR\" style=\"color: #1122cc; cursor: pointer; font-family: arial, sans-serif; white-space: nowrap;\"><b><span style=\"font-size: large;\"><span style=\"color: #1122cc; cursor: pointer; font-family: arial, sans-serif; white-space: nowrap;\"><span style=\"cursor: pointer;\">orkut - Familia&nbsp;</span></span><em style=\"color: #1122cc; cursor: pointer; font-family: arial, sans-serif; font-style: normal; white-space: nowrap;\">Faedo</em></span></b></a><span style=\"background-color: white; color: #222222; font-family: arial, sans-serif; white-space: nowrap;\"><b><span style=\"font-size: large;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div>\n<div>\n<div>\n<br />\n<br />\n<u><b><a href=\"https://sites.google.com/site/familiafaedo/\"><span style=\"color: red;\">SITE &nbsp;-&nbsp;FAMÍLIA&nbsp; FAEDO</span></a></b></u><br />\n<span style=\"color: blue;\"><u>https://sites.google.com/site/familiafaedo/</u></span><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<span style=\"color: blue;\"><u></u></span><br />\n<span style=\"color: blue;\"><u></u></span><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<u><span style=\"color: blue;\"></span></u><br />\n<span style=\"color: red;\"><b>MANDE SUAS &nbsp;FOTOS &nbsp; ANTIGAS &nbsp;E NOVAS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b></span><br />\n<span style=\"color: red;\"><b>PARA SEREM &nbsp;COLOCADAS NO SITE E NO BLOG</b></span><br />\n<span style=\"color: red;\"><b>AJUDE A CONSTRUIR &nbsp;A NOSSA HISTORIA&nbsp;</b></span><br />\n<span style=\"color: blue;\"><br /></span><br />\n<span style=\"color: blue;\"><br /></span><br />\n<span style=\"color: lime;\"><br /></span><br />\n<span style=\"color: blue; font-size: large;\">EMAIL &nbsp;ld_faedo@hotmail.com</span><br />\n<span style=\"color: blue; font-size: large;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; leandrofaedo@gmail.com</span><br />\n<span style=\"color: blue;\"></span><br />\n<span style=\"color: blue;\"></span></div>\n</div>"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/2969630757681885569"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/2969630757681885569"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/portal-faedo.html",
+            "title": "PORTAL  FAMÍLIA  FAEDO"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/06399915061930807723"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHSnevmKV4drR8hogCaYXYWOKXMsB5gZiZ9LG4_InE6ZWl-CVGJ2cvIulwwagTkbmH2qewysGYnBOUE-d0csPlp9v07oFpKePJnImz1J0O58loch32ayMax930Q-SYlx8jCB196HXieeE/s72-c/Familia+Faedo.png",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.page-5016352468766302024"
+        },
+        "published": {
+          "$t": "2012-05-01T17:56:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2012-05-01T17:56:26.627-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Fotos Novas"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgKN1Znvd01z_REqnDGd6FlrFQM2qFXqqT9dHcslNDqMIIYGysjt6goLJi-93THesyYRe7oieozLeY3N-3gVsSIujslj3vtnPq3-ZHfcF_hVbEiby34LJuIw2qkLv0LTMWqXmX8oqLPLo/s1600/ANGELO+ALBERTO+FAEDO+%2528ANGELIM%2529+E++SE+NETO+++EDUARDO+FELIPE.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgKN1Znvd01z_REqnDGd6FlrFQM2qFXqqT9dHcslNDqMIIYGysjt6goLJi-93THesyYRe7oieozLeY3N-3gVsSIujslj3vtnPq3-ZHfcF_hVbEiby34LJuIw2qkLv0LTMWqXmX8oqLPLo/s400/ANGELO+ALBERTO+FAEDO+%2528ANGELIM%2529+E++SE+NETO+++EDUARDO+FELIPE.JPG\" width=\"300\" /></a></div>\n<b>ÂNGELO ALBERTO FAEDO (ANGELIM)  E  SEU NETO  EDUARDO\n</b>\n\n\n\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34Y0ulh4G_NPq-0N2Muc56z2tm9GpIIhp4HzRWwdY_qoHrtZqLBSbkh_kqMAgCAXlzhKMNhjGqWJ2Ec9zQgDaMoTXozEJrGwMxsOZoOHTV0KuVDUbcpmUxRbORC-pP2dZpm-ABeV5P-A/s1600/ANGELO+ALBERTO++FAEDO+%2528ANGELIM%2529+ANIVERSSARIO+DE+84++ANOS.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"300\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34Y0ulh4G_NPq-0N2Muc56z2tm9GpIIhp4HzRWwdY_qoHrtZqLBSbkh_kqMAgCAXlzhKMNhjGqWJ2Ec9zQgDaMoTXozEJrGwMxsOZoOHTV0KuVDUbcpmUxRbORC-pP2dZpm-ABeV5P-A/s400/ANGELO+ALBERTO++FAEDO+%2528ANGELIM%2529+ANIVERSSARIO+DE+84++ANOS.JPG\" width=\"400\" /></a></div>\n<b>ANIVERSSARIO   DE ÂNGELO  FAEDO   84 ANOS  \n\nNASCIDO EM  24 DE NOVEMBRO  DE  1927 E NATURAL DA CIDADE  DE PASSO FUNDO  RIO GRANDE  DO SUL  ÂNGELO  FEZ  84   ANOS FILHO  DE  JOÃO FAEDO  E ÉRINA FERLIM\n</b><br />\n<b><br /></b><br />\n<b><br /></b><br />\n<b><br /></b><br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipLF19seKrf1I4iB4F4_FTa8-6ad70NfAAKwWJCZ4R9vpYUHhz8p-5IdLBFK34EIuoyGnFlSB6lJMrT0qiRpDAqOPNjBS91sePNZ5Q3LiozktvN3xtWXlReZZeVq8FhsjPhgXeulVnzZU/s1600/GERMANO.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"620\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipLF19seKrf1I4iB4F4_FTa8-6ad70NfAAKwWJCZ4R9vpYUHhz8p-5IdLBFK34EIuoyGnFlSB6lJMrT0qiRpDAqOPNjBS91sePNZ5Q3LiozktvN3xtWXlReZZeVq8FhsjPhgXeulVnzZU/s640/GERMANO.jpg\" width=\"640\" /></a></div>\n<b><span style=\"font-size: large;\"><br /></span></b><br />\n<b><span style=\"font-size: large;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: x-large;\">Germano &nbsp;Faedo</span></b><br />\n<b><span style=\"font-size: large;\">&nbsp;&nbsp;</span></b><br />\n<span style=\"font-size: large;\"><b></b></span><br />\n<span style=\"font-size: large;\"><b>Germano Faedo casou-se com Honorina Felizzari Faedo. Tiveram cinco filhos:</b></span><br />\n<span style=\"font-size: large;\"><b><br /></b></span><br />\n<span style=\"font-size: large;\"><b>Jorge Auri Faedo</b></span><br />\n<span style=\"font-size: large;\"><b>Mari de Lurdes Faedo&nbsp;</b></span><br />\n<span style=\"font-size: large;\"><b>Maria De&nbsp;Fátima Faedo</b></span><br />\n<span style=\"font-size: large;\"><b>Cleunice Maria Faedo</b></span><br />\n<span style=\"font-size: large;\"><b>Clarice Terezinha Faedo</b></span><br />\n<span style=\"font-size: large;\"><b>Odete Marta Faedo</b></span><br />\n<span style=\"font-size: large;\"><b><br /></b></span><br />\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIc0qBqc8CEj_6UjaXzFEkl77-XFFsdpGW4Wr6HGPoK_7F6vPZMe_QITHfC5_KURJw-nZMmMOe8XqPOn9AOypjSd2kYIEBAJIJfxbLKO8uaU0BkCdD6kWCI8m1QkYRgIvaDN8PQcvqjpA/s1600/533310_180048338785151_100003399580733_252931_1102414500_n2.jpg\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" height=\"600\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIc0qBqc8CEj_6UjaXzFEkl77-XFFsdpGW4Wr6HGPoK_7F6vPZMe_QITHfC5_KURJw-nZMmMOe8XqPOn9AOypjSd2kYIEBAJIJfxbLKO8uaU0BkCdD6kWCI8m1QkYRgIvaDN8PQcvqjpA/s640/533310_180048338785151_100003399580733_252931_1102414500_n2.jpg\" width=\"640\" /></a><span style=\"font-size: large;\"><b><br /></b></span><br />\n<span style=\"font-size: large;\"><b><br /></b></span><br />\n<span style=\"font-size: large;\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Germano Faedo E Honorina Felizzari Faedo</b></span><br />\n<span style=\"font-size: large;\"><b><br /></b></span><br />\n<span style=\"font-size: large;\"><b><br /></b></span><br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"color: #0000ee;\"><u><br /></u></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvruAuRpFnM0gDMZ1x8uYqDW8wnHWrpJc9aw8cU_Hme-O3Dxaa70CxEuGCaQIXV1dQLC6cCz_1bPSiQWEFwK4Gm2y0zba6JqtttQfbcHf1yjUK2QE0G7aXYl-8NGN94yD4Dv-GHfY9EWI/s1600/PLINIO+2.jpg\" imageanchor=\"1\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: right;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvruAuRpFnM0gDMZ1x8uYqDW8wnHWrpJc9aw8cU_Hme-O3Dxaa70CxEuGCaQIXV1dQLC6cCz_1bPSiQWEFwK4Gm2y0zba6JqtttQfbcHf1yjUK2QE0G7aXYl-8NGN94yD4Dv-GHfY9EWI/s640/PLINIO+2.jpg\" width=\"282\" /></a><b style=\"font-size: x-large;\">Plínio&nbsp;</b><b style=\"font-size: x-large;\">Luiz &nbsp;Faedo &nbsp;Filho de &nbsp;Luiz Antonio Faedo e Leontina Nunes &nbsp;Cavalheiro &nbsp; &nbsp;</b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<b><span style=\"font-size: x-large;\">Plínio Luiz &nbsp;Faedo&nbsp;</span></b></div>"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/5016352468766302024"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/5016352468766302024"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/fotos-novas.html",
+            "title": "Fotos Novas"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/06399915061930807723"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgKN1Znvd01z_REqnDGd6FlrFQM2qFXqqT9dHcslNDqMIIYGysjt6goLJi-93THesyYRe7oieozLeY3N-3gVsSIujslj3vtnPq3-ZHfcF_hVbEiby34LJuIw2qkLv0LTMWqXmX8oqLPLo/s72-c/ANGELO+ALBERTO+FAEDO+%2528ANGELIM%2529+E++SE+NETO+++EDUARDO+FELIPE.JPG",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.page-4790361651861878583"
+        },
+        "published": {
+          "$t": "2012-04-28T23:48:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2012-04-28T23:48:03.129-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Historia  da Família  Faedo"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHSnevmKV4drR8hogCaYXYWOKXMsB5gZiZ9LG4_InE6ZWl-CVGJ2cvIulwwagTkbmH2qewysGYnBOUE-d0csPlp9v07oFpKePJnImz1J0O58loch32ayMax930Q-SYlx8jCB196HXieeE/s1600/Familia+Faedo.png\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"268\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHSnevmKV4drR8hogCaYXYWOKXMsB5gZiZ9LG4_InE6ZWl-CVGJ2cvIulwwagTkbmH2qewysGYnBOUE-d0csPlp9v07oFpKePJnImz1J0O58loch32ayMax930Q-SYlx8jCB196HXieeE/s400/Familia+Faedo.png\" width=\"400\" /></a></div>\n<b>Natural de Monte Faedo, Província de Vicenza, Itália, Josep Faedo era filho de Luizi Faedo e Margarida Dalban. Em 1891, veio conhecer a América, deixando a família na Europa. Percorreu inicialmente a Argentina e o Uruguai. Josep era agrimensor prático e técnico em vinicultura.\n         Em 1892, foi convidado para orientar a colonização italiana na região da futura cidade de Nova Bassano, no Rio Grande do Sul. Retornou à Itália para trazer a esposa, Rosa Vicário, e seu filho João Faedo. Imigrou para o Brasil em 1895, em Alfredo Chaves, atual Veranópolis (RS). \n     Na década de 1930, Josep e seu irmão João Faedo (interessado por pedras preciosas) vieram conhecer o Paraná. Ao retornar para o Rio Grande do Sul, incentivou seu filho Luiz Antônio Faedo a vir se instalar nesta região, motivado pelas terras férteis do Sudoeste.</b><br />\n<br />\n<br />\n<span style=\"font-size: x-large;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Luiz &nbsp;Antonio &nbsp;Faedo</span><br />\n<br />\n<h3>\n\n\n\n\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RkiqBZlyirxY3u7mXrkWQKHhHtX1dqdXtic-G7dw2FFLos6HtvTM9s6sAGmWAByKQ7Vt91z5_mbtFfLuXnIXNmqx8UFEvhxGezeaBlYqIHMiKTf1rhGqBjcWQWE1j4nT6c8ej612_ZQ/s1600/523273_398839913461629_100000068720530_1629222_1853305122_n.jpg\" imageanchor=\"1\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RkiqBZlyirxY3u7mXrkWQKHhHtX1dqdXtic-G7dw2FFLos6HtvTM9s6sAGmWAByKQ7Vt91z5_mbtFfLuXnIXNmqx8UFEvhxGezeaBlYqIHMiKTf1rhGqBjcWQWE1j4nT6c8ej612_ZQ/s1600/523273_398839913461629_100000068720530_1629222_1853305122_n.jpg\" /></a><span style=\"font-family: Arial, sans-serif;\"><span style=\"font-size: medium; font-weight: normal;\">&nbsp; &nbsp; </span><span style=\"font-size: large;\">&nbsp; &nbsp;Em fins de&nbsp; 1942, nos meados&nbsp; do&nbsp;\nmês&nbsp; de&nbsp; outubro, Luiz Antonio Faedo. Juntamente&nbsp; com seu irmão\nJoão Faedo, mais conhecido&nbsp; por Joanim&nbsp; Faedo, que era italiano&nbsp;\nde&nbsp; nascimento, da região&nbsp; de Faedo. Província de&nbsp; Vicenza,</span></span><span style=\"font-size: large;\"><span style=\"font-family: Arial, sans-serif;\">&nbsp; &nbsp;Vieram fazer um reconhecimento nesta\nregião (hoje Francisco Beltrão ) . E&nbsp;\nposteriormente&nbsp; regressaram\npara&nbsp; o Rio\nGrande&nbsp; do\nSu, Meses depois&nbsp;\njá no&nbsp; ano de 1943&nbsp; ele&nbsp;\nveio&nbsp; em definitivo.</span><span style=\"font-family: Arial, sans-serif; line-height: 115%;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-family: Arial, sans-serif; line-height: 115%;\">O\ndestino seria&nbsp; o recém criado, pelo\ngoverno&nbsp; de Getúlio Vargas. Território do\nIguaçu&nbsp; que compreendia o atual sudoeste\ndo Paraná,&nbsp; e&nbsp; oeste de Santa\nCatarina, em 13 de&nbsp;&nbsp; maio&nbsp;&nbsp; de 1943. Após&nbsp; uma viagem&nbsp;\na&nbsp; cavalo&nbsp; que durou&nbsp;\nmais de&nbsp; um mês, mas já\nchegava&nbsp; as imediações&nbsp; de&nbsp;\nClevelândia,&nbsp; onde adquiriu uma\npropriedade&nbsp; nas margens&nbsp; do&nbsp;\nrio&nbsp; Pato\nBranco (neste&nbsp;\nlocal&nbsp; ficou o filho &nbsp;Adão Faedo. No&nbsp; mesmo\nano se deslocou para novos reconhecimentos, enfrentando\npicadas e com muita&nbsp; dificuldade chegou até as margens do Rio&nbsp;\nMarrecas, onde&nbsp;&nbsp; veio\nconhecer&nbsp; Sebastião Müller, morador do local,\nmais tarde&nbsp;&nbsp; seu&nbsp; compadre. O\nseu&nbsp; rancho.\nAnos depois, isso&nbsp; por 1946&nbsp;\nacabou&nbsp; comprando a posse dessas\nterras (aproximadamente&nbsp; 100 hectares),\naonde esta hoje&nbsp; situada a cidade de\nFrancisco Beltrão.</span></span></h3>\n<div>\n<span style=\"font-size: small;\"><span style=\"font-family: Arial, sans-serif; line-height: 115%;\"><br /></span></span></div>\n<div>\n<span style=\"font-size: small;\"><span style=\"font-family: Arial, sans-serif; line-height: 115%;\"><br /></span></span></div>\n<div>\n<span style=\"font-size: small;\"><span style=\"font-family: Arial, sans-serif; line-height: 115%;\"><br /></span></span></div>\n<div>\n<span style=\"font-size: small;\"><span style=\"font-family: Arial, sans-serif; line-height: 115%;\"><br /></span></span></div>\n<div>\n<span style=\"font-size: small;\"><span style=\"font-family: Arial, sans-serif; line-height: 115%;\"><br /></span></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfQE0Iht1r6vuf-Q2sTut9vLNYAPvvJvMiU2KLe4BnWlW_l6ucwI33bxRyWp2wRBUTix0Po1_Lk97ZzFsivTzO8xqCQjTQS5gw3SwKJGTDZ9ALnKFnRvLpBJrcYAQOZvsVEF4ipnXuAys/s1600/292990_398841210128166_1553346726_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"488\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfQE0Iht1r6vuf-Q2sTut9vLNYAPvvJvMiU2KLe4BnWlW_l6ucwI33bxRyWp2wRBUTix0Po1_Lk97ZzFsivTzO8xqCQjTQS5gw3SwKJGTDZ9ALnKFnRvLpBJrcYAQOZvsVEF4ipnXuAys/s640/292990_398841210128166_1553346726_n.jpg\" width=\"640\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjemOHvpD2xKwhzImb5Qpr-V8v3TP2E9nCUvLvxGyEs13KMExfnrbOthU75wgXYHR5u-tFMETHuc06TDBgiuIx2K3JnvQdhEhqsitqEFeqAO-Sj-UzVx8Mi2dHoHMP5kg5o_9gMeVG2MXY/s1600/534419_398841850128102_100000068720530_1629228_2101392062_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"352\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjemOHvpD2xKwhzImb5Qpr-V8v3TP2E9nCUvLvxGyEs13KMExfnrbOthU75wgXYHR5u-tFMETHuc06TDBgiuIx2K3JnvQdhEhqsitqEFeqAO-Sj-UzVx8Mi2dHoHMP5kg5o_9gMeVG2MXY/s640/534419_398841850128102_100000068720530_1629228_2101392062_n.jpg\" width=\"640\" /></a></div>\n<div>\n<span style=\"font-size: small;\"><span style=\"font-family: Arial, sans-serif; line-height: 115%;\"><br /></span></span></div>\n<div>\n<span style=\"font-family: Arial, sans-serif;\"><span style=\"line-height: 17px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Morada de &nbsp;Luiz &nbsp;&nbsp;</span></span><span style=\"font-family: Arial, sans-serif; line-height: 17px;\">Antonio &nbsp;Faedo</span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMb8RKbOWyPMLbi3YGKdeS29ahWBxlM4AlhRvOT25wbJpwWYK0qdh7FAKD2cm0Hul6LuRyezOOUPtBKPpJ3I5T_cDPYcdYCxj0tUVE3OLa5BaM23pR7JdPC9fxNwPWbECIPGI258zwaHw/s1600/306538_212278622216934_100003043940340_342786_1065277336_n+2.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"449\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMb8RKbOWyPMLbi3YGKdeS29ahWBxlM4AlhRvOT25wbJpwWYK0qdh7FAKD2cm0Hul6LuRyezOOUPtBKPpJ3I5T_cDPYcdYCxj0tUVE3OLa5BaM23pR7JdPC9fxNwPWbECIPGI258zwaHw/s640/306538_212278622216934_100003043940340_342786_1065277336_n+2.jpg\" width=\"640\" /></a></div>\n<div>\n<span style=\"font-size: small;\"><span style=\"font-family: Arial, sans-serif; line-height: 115%;\"><br /></span></span></div>\n<br />\n<br />"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/4790361651861878583"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/4790361651861878583"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/historia-da-familia-faedo.html",
+            "title": "Historia  da Família  Faedo"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/06399915061930807723"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHSnevmKV4drR8hogCaYXYWOKXMsB5gZiZ9LG4_InE6ZWl-CVGJ2cvIulwwagTkbmH2qewysGYnBOUE-d0csPlp9v07oFpKePJnImz1J0O58loch32ayMax930Q-SYlx8jCB196HXieeE/s72-c/Familia+Faedo.png",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.page-1622248374885176922"
+        },
+        "published": {
+          "$t": "2012-04-08T00:06:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2012-04-08T00:06:53.301-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Arquivos da  Família  Faedo"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"text-align: -webkit-auto;\">&nbsp; &nbsp; &nbsp; &nbsp; CERTIFICADOS &nbsp;DE CHEGADA AO BRASIL</span>\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"text-align: -webkit-auto;\"><br /></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOaEo2LHNClieTHFRjIbpluHL040v7e8mU4K2xVg52ui08kTudem_O74YD2coTXzwV3KtSRWqPZRkpgdOyYFETO-cBWxegtkf2Bt8lPHeQ90jC0RZ6gXSG5XLjqpFHgw8VhU34lQ3Kg8/s1600/531834_398839260128361_100000068720530_1629219_1976991502_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOaEo2LHNClieTHFRjIbpluHL040v7e8mU4K2xVg52ui08kTudem_O74YD2coTXzwV3KtSRWqPZRkpgdOyYFETO-cBWxegtkf2Bt8lPHeQ90jC0RZ6gXSG5XLjqpFHgw8VhU34lQ3Kg8/s1600/531834_398839260128361_100000068720530_1629219_1976991502_n.jpg\" /></a></div>\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GIUSEPPE FAEDO<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN6guOEfe1Awu909NX1yiGMWAqRE6z42nf9z3wHA08sNeuxtJD5Aw1ovfi-3U19FaxHAsOrus-PJl3xisfhNPVynQeR5DEhjvSXLS_tj0MZ3JAueuT64raEnamkRKp6DzYjQYjWmcWAHw/s1600/398872_398838160128471_100000068720530_1629216_428103149_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN6guOEfe1Awu909NX1yiGMWAqRE6z42nf9z3wHA08sNeuxtJD5Aw1ovfi-3U19FaxHAsOrus-PJl3xisfhNPVynQeR5DEhjvSXLS_tj0MZ3JAueuT64raEnamkRKp6DzYjQYjWmcWAHw/s1600/398872_398838160128471_100000068720530_1629216_428103149_n.jpg\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\nROSA&nbsp;VICÁRIO FAEDO</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GeRoa-cQUdbhl0nR4yb8OPo71fIZ0VDkJEARTqa7wODJg30vm4bH6CS87wuZ_JBbejidSTJyw5wTnYgOCMlShjFWW2O9sX1x6I-ApzRPSEBHLEXvWXxmJkt-mYcvHVJ6FnGN4GXW55w/s1600/523797_401368216542132_100000068720530_1636607_24209984_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GeRoa-cQUdbhl0nR4yb8OPo71fIZ0VDkJEARTqa7wODJg30vm4bH6CS87wuZ_JBbejidSTJyw5wTnYgOCMlShjFWW2O9sX1x6I-ApzRPSEBHLEXvWXxmJkt-mYcvHVJ6FnGN4GXW55w/s1600/523797_401368216542132_100000068720530_1636607_24209984_n.jpg\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\nBRASÃO&nbsp;FAMÍLIA&nbsp;FAEDO&nbsp;</div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA5O40A4EHEapqy8eaaGsLMUxFbmHUiUNO7CCkxArZiuSs6q9C36MbJaHj83X8M2A9UalSpMXIZymJyi-wqCRwlS6WIKhFuc7LU2nnc5sLNlA8yGMa7Gm-dYFDpS6BYQLxHusrZD-gj_o/s1600/549237_398840213461599_100000068720530_1629223_934641111_n.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"640\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA5O40A4EHEapqy8eaaGsLMUxFbmHUiUNO7CCkxArZiuSs6q9C36MbJaHj83X8M2A9UalSpMXIZymJyi-wqCRwlS6WIKhFuc7LU2nnc5sLNlA8yGMa7Gm-dYFDpS6BYQLxHusrZD-gj_o/s640/549237_398840213461599_100000068720530_1629223_934641111_n.jpg\" width=\"514\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Add caption</td></tr>\n</tbody></table>\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/1622248374885176922"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/1622248374885176922"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/arquivos-da-familia-faedo.html",
+            "title": "Arquivos da  Família  Faedo"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/06399915061930807723"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOaEo2LHNClieTHFRjIbpluHL040v7e8mU4K2xVg52ui08kTudem_O74YD2coTXzwV3KtSRWqPZRkpgdOyYFETO-cBWxegtkf2Bt8lPHeQ90jC0RZ6gXSG5XLjqpFHgw8VhU34lQ3Kg8/s72-c/531834_398839260128361_100000068720530_1629219_1976991502_n.jpg",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.page-4088439231913780376"
+        },
+        "published": {
+          "$t": "2012-04-07T12:33:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2012-04-07T12:33:15.539-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Noticias Família  Faedo"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm35pT10BNXnMWbPL1aHMr1Bg2fXlBMmVSS7IUjFkYzKF-V5w3d_mV8phdKwaZUiF9jK2sZxI017wLZUAtd3tGmm7XQiF99gBrBQnPL7Zfoo_NIk5USJNuu8Ktw8tEvW1elzk27hvvYkM/s1600/398872_398838160128471_100000068720530_1629216_428103149_n.jpg\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm35pT10BNXnMWbPL1aHMr1Bg2fXlBMmVSS7IUjFkYzKF-V5w3d_mV8phdKwaZUiF9jK2sZxI017wLZUAtd3tGmm7XQiF99gBrBQnPL7Zfoo_NIk5USJNuu8Ktw8tEvW1elzk27hvvYkM/s320/398872_398838160128471_100000068720530_1629216_428103149_n.jpg\" width=\"206\" /></a><b>CERTIFICADOS DE CHEGADA AO BRASIL DA&nbsp;FAMÍLIA&nbsp;FAEDO</b><br />\n<b><br /></b><br />\n<b>CLIQUE AQUI E VEJA OS &nbsp;CERTIFICADOS &nbsp;DE CHEGADA &nbsp;AO BRASIL</b><br />\n<br />\n<b><a href=\"http://familiafaedo.blogspot.com.br/p/arquivos-da-familia-faedo.html\"><span style=\"color: blue;\">ARQUIVOS DA &nbsp;FAMÍLIA&nbsp;FAEDO</span></a></b><br />\n<b><br /></b><br />\n<b><br /></b><br />\n<b>AGRADECIMENTOS A GERSON FAEDO</b><br />\n<b><br /></b><br />\n<b><br /></b><br />\n<b><br /></b><br />\n<b>POSTADO &nbsp;POR &nbsp;LEANDRO DE SOUZA &nbsp;FAEDO</b><br />\n<b><br /></b><br />\n<b><br /></b><br />\n<br />\n<b><u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u></b><br />\n&nbsp;ARQUIVO PUBLICO MINEIRO<br />\n<span style=\"background-color: white; font-family: Arial, sans-serif; font-size: 8pt;\"><b><br /></b></span><br />\n<span style=\"background-color: white; font-family: Arial, sans-serif; font-size: 8pt;\"><b>Arquivo Público Mineiro - APM</b></span><br />\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<span style=\"color: black; font-family: Arial, sans-serif; font-size: 25pt;\">SA-884 - FAEDO &nbsp; &nbsp;&nbsp;</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<b><i><span style=\"color: black; font-family: Arial, sans-serif; font-size: 10pt;\">Sobrenome:&nbsp;</span></i></b><span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">FAEDO Tranquillo - 40 anos</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<b><i><span style=\"color: black; font-family: Arial, sans-serif; font-size: 10pt;\">Livro:&nbsp;</span></i></b><span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">SA-884 pag.: 243&nbsp;</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<b><i><span style=\"color: black; font-family: Arial, sans-serif; font-size: 10pt;\">Data:&nbsp;</span></i></b><span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">05/04/1896 ( Data de entrada na Hospedaria )</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<b><i><span style=\"color: black; font-family: Arial, sans-serif; font-size: 10pt;\">Nacionalidade:&nbsp;</span></i></b><span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">Italiana</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<b><i><span style=\"color: black; font-family: Arial, sans-serif; font-size: 10pt;\">Dependentes:&nbsp;</span></i></b><span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">FAEDO Marianna - 37 anos - mulher</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">FAEDO Paride - 15 anos - filho</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">FAEDO Virginia - 14 anos - filha</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">FAEDO Albino - 10 anos - filho</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">FAEDO Albina - 3 anos - filha</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">FAEDO Almerico - 1 ano - filho</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<b><i><span style=\"color: black; font-family: Arial, sans-serif; font-size: 10pt;\">Embarcação:&nbsp;</span></i></b><span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">Colombo</span></div>\n<div style=\"background-color: white; color: #260a00; font-family: Arial, Verdana, sans-serif; font-size: 13px; margin-bottom: 0.0001pt; margin-top: 5px;\">\n<b><i><span style=\"color: black; font-family: Arial, sans-serif; font-size: 10pt;\">Microfilme:&nbsp;</span></i></b><span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 10pt;\">Rolo 02</span></div>\n<br />\n<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u><br />\n02\n\n\n\n\n\n\n<b>\nFRANCISCO BELTRAO FAZ HOMENAGEM JOSEP FAEDO</b><br />\n<br />\n<br />\n<b></b>A Prefeitura de Francisco Beltrão reinaugurou quarta-feira pela manhã a Praça Josep Faedo (antigo half de skate), na Rua Palmas, no centro. O projeto de revitalização foi elaborado pela arquiteta Liziane Behne e executado pela Secretaria de Urbanismo, em parceria com a empresa Consisa Net, que ficou responsável por cuidar da praça.\n\n\nAlém da remodelação do espaço, as árvores foram conservadas. A próxima etapa será a iluminação especial e a instalação dos bancos. Sara Faedo da Costa, neta de Luiz Antônio Faedo, agradeceu a homenagem. \"Esta obra valoriza o lugar. Meu avô gostava tanto daqui, tanto que deixou tudo e veio pra cá da região de Passo Fundo (RS).\"\nA reinauguração contou com a presença de Sara, do prefeito Wilmar Reichembach (PSDB), do secretário Sérgio Galvão (Urbanismo) e de José Antonio Antunes Zanrosso, diretor da Consisa Net.\n\n\nFRANCISCO BELTRAO FAZ HOMENAGEM JOSEP FAEDO\npostado em 12/10/2009 17:35 por Leandro de Souza Faedo   [ há 22 horas atualizado‎(s)‎ ]\nA Prefeitura de Francisco Beltrão reinaugurou quarta-feira pela manhã a Praça Josep Faedo (antigo half de skate), na Rua Palmas, no centro. O projeto de revitalização foi elaborado pela arquiteta Liziane Behne e executado pela Secretaria de Urbanismo, em parceria com a empresa Consisa Net, que ficou responsável por cuidar da praça.\n\n\nAlém da remodelação do espaço, as árvores foram conservadas. A próxima etapa será a iluminação especial e a instalação dos bancos. Sara Faedo da Costa, neta de Luiz Antônio Faedo, agradeceu a homenagem. \"Esta obra valoriza o lugar. Meu avô gostava tanto daqui, tanto que deixou tudo e veio pra cá da região de Passo Fundo (RS).\"\nA reinauguração contou com a presença de Sara, do prefeito Wilmar Reichembach (PSDB), do secretário Sérgio Galvão (Urbanismo) e de José Antonio Antunes Zanrosso, diretor da Consisa Net.<a href=\"http://www.jornaldebeltrao.com.br/geral/prefeitura-revitaliza-praca-josep-faedo-69670/\">        http://www.jornaldebeltrao.com.br/geral/prefeitura-revitaliza-praca-josep-faedo-69670/</a><br />\n<a name='more'></a>"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/4088439231913780376"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/4088439231913780376"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/noticias-familia-faedo.html",
+            "title": "Noticias Família  Faedo"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/06399915061930807723"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm35pT10BNXnMWbPL1aHMr1Bg2fXlBMmVSS7IUjFkYzKF-V5w3d_mV8phdKwaZUiF9jK2sZxI017wLZUAtd3tGmm7XQiF99gBrBQnPL7Zfoo_NIk5USJNuu8Ktw8tEvW1elzk27hvvYkM/s72-c/398872_398838160128471_100000068720530_1629216_428103149_n.jpg",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7684661181787056048.page-7027850581876169332"
+        },
+        "published": {
+          "$t": "2012-04-02T22:24:00.001-07:00"
+        },
+        "updated": {
+          "$t": "2012-04-02T22:24:05.135-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Contatos"
+        },
+        "content": {
+          "type": "html",
+          "$t": "Email &nbsp;ld_faedo@hotmail.com &nbsp;&nbsp;<div>\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;leandrofaedo@gmail.com</div>\n<div>\n<br /></div>\n<div>\n<br /></div>\n<div>\n<br /></div>"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/7027850581876169332"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7684661181787056048/pages/default/7027850581876169332"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://familiafaedo.blogspot.com/p/contatos.html",
+            "title": "Contatos"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/06399915061930807723"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
